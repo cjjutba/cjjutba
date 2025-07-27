@@ -97,17 +97,32 @@
 
 </div>
 
-## 📊 Weekly Development Breakdown
+## 📊 Development Focus
 
-<!--START_SECTION:waka-->
+<div align="center">
+
+### 🎯 Current Tech Stack
+**Frontend:** React ⚛️ • TypeScript 🔷 • Next.js ⚡ • Tailwind CSS 🎨
+
+**Tools:** VS Code 💻 • Git 🔄 • Figma 🎨 • Chrome DevTools 🔧
+
+### 📈 Learning Journey
+🔥 **Mastering:** Advanced React Patterns & TypeScript  
+🌱 **Exploring:** Next.js 14, Web Performance Optimization  
+🎯 **Next:** Node.js Backend Development  
+
+</div>
+
+## ⏰ Coding Activity
+
 ```text
-TypeScript   25 hrs 30 mins  ████████████████████▓░   68.80%
-JavaScript   8 hrs 45 mins   ██████▒░░░░░░░░░░░░░░░░   23.26%
-CSS          2 hrs 15 mins   █▓░░░░░░░░░░░░░░░░░░░░░   06.54%
-HTML         30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░   01.34%
-JSON         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░   00.06%
+🌅 Morning    ████████▓░░░░░░░  45%    I'm most productive in the morning
+🌞 Afternoon  ██████░░░░░░░░░░  35%    Focused coding sessions
+🌃 Evening    ████░░░░░░░░░░░░  20%    Learning & side projects
+🌙 Night      ▓░░░░░░░░░░░░░░░  05%    Rare late-night debugging
 ```
-<!--END_SECTION:waka-->
+
+💡 *Manual tracking - Updated weekly based on my development routine*
 
 ## 🌟 Skills Highlights
 
