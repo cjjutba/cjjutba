@@ -81,19 +81,13 @@
 
 ## 📊 Weekly Development Breakdown
 
-<!--START_SECTION:waka-->
-```text
-Total Time: 41 hrs 2 mins
+[![CJ's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cjjutba&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=compact&langs_count=8&range=last_7_days)](https://wakatime.com/@cjjutba)
 
-TypeScript   36 hrs 1 min   ████████████████████▓░░░░   86.80 %
-JSON         1 hr 46 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
-JavaScript   1 hr 28 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
-Other        28 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
-CSS          21 mins        ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
-```
-<!--END_SECTION:waka-->
+<div align="center">
+  
+[![WakaTime Badge](https://wakatime.com/badge/user/cjjutba.svg?style=for-the-badge)](https://wakatime.com/@cjjutba)
 
----
+</div>
 
 ## 📈 Stats
 
