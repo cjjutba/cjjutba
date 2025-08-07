@@ -1,202 +1,188 @@
-<!-- Clickable Cover Photo -->
+# CJ Jutba
+
 <div align="center">
   <a href="https://cjjutba.com" target="_blank">
     <img src="assets/cover-photo.png" alt="CJ Jutba - Frontend Developer" width="100%" />
   </a>
 </div>
-<br>
 
-<!-- Social Links and Profile Views -->
-<table width="100%">
-<tr>
-<td align="left" width="30%">
+<div align="center">
   <a href="https://github.com/cjjutba">
-    <img src="https://komarev.com/ghpvc/?username=cjjutba&style=for-the-badge&color=ff5722&label=Profile+Views" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=cjjutba&style=flat-square&color=0ea5e9&label=Profile+Views" alt="Profile Views"/>
   </a>
-</td>
-<td align="right" width="70%">
-    <a href="https://github.com/cjjutba" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/>
-    </a>
-    &nbsp;
-    <a href="https://linkedin.com/in/cjjutba" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=%230077B5" alt="LinkedIn"/>
-    </a>
-    &nbsp;
-    <a href="https://twitter.com/cjjutba" target="_blank">
-        <img src="https://img.shields.io/badge/Twitter-FFFFFF?style=for-the-badge&logo=twitter&logoColor=%231DA1F2" alt="Twitter"/>
-    </a>
-</td>
-</tr>
-</table>
+  &nbsp;&nbsp;
+  <a href="https://github.com/cjjutba" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/cjjutba" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/cjjutba" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+</div>
 
----
+<br />
 
-## 👨‍💻 About Me
+## About
 
-**Computer Engineering graduate** specializing in **front-end development**. I transform complex problems into beautiful, intuitive, and responsive user interfaces. My engineering background gives me a unique perspective—I don't just build what looks good, I engineer UIs that are performant, accessible, and integrate seamlessly with backend services.
+Computer Engineering graduate specializing in frontend development. I transform complex problems into beautiful, intuitive, and responsive user interfaces. My engineering background provides a unique perspective—building performant, accessible UIs that integrate seamlessly with backend services.
 
 ```typescript
-const cjJutba = {
+const developer = {
+  name: "CJ Jutba",
   role: "Frontend Developer",
   education: "Computer Engineering",
   location: "Plaridel, Misamis Occidental, Philippines",
-  focus: ["UI/UX Implementation", "Performance Optimization", "Accessibility"],
-  currentlyLearning: ["Next.js 14", "Advanced React Patterns", "Web3 Integration"],
-  availableFor: ["Full-time opportunities", "Freelance projects", "Collaborations"]
+  
+  expertise: [
+    "React Ecosystem", 
+    "TypeScript", 
+    "Performance Optimization", 
+    "Responsive Design",
+    "Accessibility"
+  ],
+  
+  currentFocus: [
+    "Next.js 14",
+    "Advanced React Patterns",
+    "Web Performance Optimization",
+    "Web3 Integration"
+  ],
+  
+  openTo: [
+    "Full-time opportunities",
+    "Freelance projects", 
+    "Open source collaboration"
+  ]
 };
 ```
 
----
+<br />
 
-## 🛠️ Technology Stack
+## Technology Stack
 
-<div align="center">
-
-### 💻 Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-### 🎨 Styling & UI
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![Sass](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-
-### 🔧 Development Tools
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-### 🚀 Deployment & Hosting
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  
 <table>
 <tr>
-<td>
-  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cjjutba&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=e2e8f0&icon_color=8b5cf6)](https://github.com/cjjutba)
+<td valign="top" width="33%">
+
+**Frontend**
+- React & Next.js
+- TypeScript
+- JavaScript ES6+
+- HTML5 & CSS3
 
 </td>
-<td>
+<td valign="top" width="33%">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cjjutba&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=e2e8f0)](https://github.com/cjjutba)
+**Styling & UI**
+- Tailwind CSS
+- Styled Components
+- Material-UI
+- Sass/SCSS
+
+</td>
+<td valign="top" width="33%">
+
+**Tools & Deployment**
+- Visual Studio Code
+- Git & GitHub
+- Vite & Webpack
+- Vercel & Netlify
 
 </td>
 </tr>
 </table>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=cjjutba&theme=tokyonight&hide_border=true&background=0d1117&ring=3b82f6&fire=8b5cf6&currStreakLabel=e2e8f0&sideLabels=e2e8f0&dates=94a3b8)](https://github.com/cjjutba)
+<br />
 
-</div>
-
----
-
-## 💼 Experience Highlights
+## Performance Metrics
 
 <div align="center">
 
-| 🎯 **Metric** | 📈 **Achievement** |
-|---------------|-------------------|
-| **Projects Delivered** | 15+ successful web applications |
-| **Client Satisfaction** | 100% positive feedback rate |
-| **Development Focus** | Modern React ecosystem |
-| **Specialization** | Responsive UI/UX implementation |
-| **Performance** | Optimized for Core Web Vitals |
+| Metric | Achievement |
+|:---:|:---:|
+| **Projects Delivered** | 15+ Applications |
+| **Client Satisfaction** | 100% Positive Feedback |
+| **GitHub Contributions** | 477+ This Year |
+| **Current Streak** | 2 Days Active |
+| **Longest Streak** | 33 Days |
 
 </div>
 
----
+<br />
 
-## 🎯 Core Expertise
+## GitHub Analytics
+
+<div align="center">
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=cjjutba&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff" alt="GitHub Stats" width="400"/>
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjjutba&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="350"/>
+</td>
+</tr>
+</table>
+
+<img src="https://streak-stats.demolab.com/?user=cjjutba&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=79c0ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" width="600"/>
+
+</div>
+
+<br />
+
+## Development Philosophy
+
+> *"I don't just write code—I craft experiences. Every line of CSS and JavaScript is written with the user in mind, focusing on performance, accessibility, and creating a seamless digital journey."*
+
+<br />
+
+## Core Competencies
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎨 Frontend Development
-- **⚛️ React Ecosystem** - Hooks, Context, State Management
-- **📘 TypeScript** - Type-safe development
-- **📱 Responsive Design** - Mobile-first approach
-- **⚡ Performance Optimization** - Fast loading times
-- **♿ Accessibility** - WCAG compliant interfaces
+**Frontend Excellence**
+- Modern React ecosystem with hooks and context
+- Type-safe development with TypeScript
+- Mobile-first responsive design approach  
+- Performance optimization for Core Web Vitals
+- WCAG compliant accessibility standards
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔧 Development Practices
-- **✨ Clean Code** - Maintainable and readable
-- **🧩 Component Architecture** - Reusable UI components
-- **🔄 Version Control** - Git workflow management
-- **🧪 Testing** - Quality assurance focused
-- **📚 Documentation** - Well-documented projects
+**Development Practices**
+- Clean, maintainable code architecture
+- Reusable component design patterns
+- Git workflow and version control
+- Test-driven development approach
+- Comprehensive project documentation
 
 </td>
 </tr>
 </table>
 
----
+<br />
 
-## 📈 Current Learning Journey
+## Learning Journey
 
-```mermaid
-graph LR
-    A[🔥 Advanced React Patterns] --> B[⚡ Next.js 14 Features]
-    B --> C[🚀 Web Performance Optimization]
-    C --> D[🌐 Web3 Integration]
-    D --> E[🛠️ Node.js Backend]
-    
-    style A fill:#3b82f6,stroke:#ffffff,color:#ffffff
-    style B fill:#000000,stroke:#ffffff,color:#ffffff
-    style C fill:#61DAFB,stroke:#000000,color:#000000
-    style D fill:#F16822,stroke:#ffffff,color:#ffffff
-    style E fill:#339933,stroke:#ffffff,color:#ffffff
-```
+Currently expanding expertise in advanced React patterns, Next.js 14 features, web performance optimization, Web3 integration, and Node.js backend development.
 
----
+<br />
 
-## 💡 Philosophy
+## Let's Connect
 
-> **"I don't just write code—I craft experiences."** Every line of CSS and JavaScript is written with the user in mind, focusing on performance, accessibility, and creating a seamless digital journey.
-
----
-
-## 🤝 Let's Collaborate
-
-I'm always open to discussing:
-- 🚀 **Innovative frontend projects**
-- 💼 **Full-time opportunities**
-- 🤝 **Open source contributions**
-- 🎓 **Knowledge sharing**
-
----
-
-## 🏆 GitHub Achievements
+I'm always open to discussing innovative frontend projects, full-time opportunities, open source contributions, and knowledge sharing initiatives.
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=cjjutba&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4&no-bg=true&title=Stars,Followers,Commits,Repositories)](https://github.com/cjjutba)
+**Ready to build something exceptional together?**
 
-</div>
-
----
-
-<div align="center">
-
-### 🎯 **Ready to build something amazing together?**
-
-**Made with ❤️ by [CJ Jutba](https://github.com/cjjutba)** *Crafting beautiful user experiences, one component at a time.*
+*Crafting beautiful user experiences, one component at a time.*
 
 </div>
