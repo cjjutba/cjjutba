@@ -14,33 +14,84 @@
 </div>
 
 ---
-
 ## A Frontend Developer & Problem Solver
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" style="border: none;">
+<tr style="border: none;">
+<td width="50%" valign="top" style="border: none; padding-right: 20px;">
 
-**Currently working on** cjjutba.com
+### 👨‍💻 About Me
 
-**Currently learning** Advanced React Patterns & Web3 Integration
+🔭 **Currently working on** [cjjutba.com](https://cjjutba.com)
 
-**All projects available at** [cjjutba.com/projects](https://cjjutba.com/projects)
+🌱 **Currently learning** Advanced React Patterns & Web3 Integration
 
-**Technical articles at** [cjjutba.com/blog](https://cjjutba.com/blog)
+🚀 **All projects available at** [cjjutba.com/projects](https://cjjutba.com/projects)
 
-**Ask me about** React, TypeScript, Next.js, Performance Optimization
+📝 **Technical articles at** [cjjutba.com/blog](https://cjjutba.com/blog)
 
-**How to reach me** [hello@cjjutba.com](mailto:hello@cjjutba.com)
+💬 **Ask me about** React, TypeScript, Next.js, Performance Optimization
+
+📫 **How to reach me** [hello@cjjutba.com](mailto:hello@cjjutba.com)
+
+### 🛠️ Tech Stack
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top" style="border: none;">
 
 <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="400" alt="Developer Animation" />
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cjjutba&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
 
 </td>
 </tr>
 </table>
+
+---
+
+## Alternative Clean Layout (No Table)
+
+<div align="center">
+
+# 👨‍💻 Frontend Developer & Problem Solver
+
+<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="300" alt="Developer Animation" />
+
+</div>
+
+<div align="left">
+
+### 🚀 What I'm Up To
+
+- 🔭 **Currently working on** [cjjutba.com](https://cjjutba.com)
+- 🌱 **Currently learning** Advanced React Patterns & Web3 Integration
+- 👯 **Looking to collaborate on** Open source React projects
+- 🤔 **Ask me about** React, TypeScript, Next.js, Performance Optimization
+
+### 🌐 Find Me Around The Web
+
+- 🌍 **Portfolio:** [cjjutba.com](https://cjjutba.com)
+- 📂 **Projects:** [cjjutba.com/projects](https://cjjutba.com/projects)
+- ✍️ **Blog:** [cjjutba.com/blog](https://cjjutba.com/blog)
+- 📧 **Email:** [hello@cjjutba.com](mailto:hello@cjjutba.com)
+
+### 💻 Tech Stack & Tools
+
+```javascript
+const developer = {
+    languages: ["JavaScript", "TypeScript", "Python"],
+    frameworks: ["React", "Next.js", "Node.js"],
+    tools: ["VS Code", "Git", "Docker", "Figma"],
+    currentFocus: "Advanced React Patterns & Web3 Integration"
+};
+```
+
+</div>
 
 ---
 
