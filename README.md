@@ -89,26 +89,6 @@
 
 </div>
 
-## 📈 Stats
-
-<div align="center">
-
-### Most Used Languages
-![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=&message=TypeScript%2098.30%&color=3178C6)
-![HTML](https://img.shields.io/static/v1?style=flat-square&label=&message=HTML%200.33%&color=E34F26)
-![CSS](https://img.shields.io/static/v1?style=flat-square&label=&message=CSS%201.09%&color=1572B6)
-![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=&message=JavaScript%200.28%&color=F7DF1E)
-
-### WakaTime Stats
-![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=TypeScript&message=867%20hrs%2035%20mins&color=3178C6)
-![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=JavaScript&message=25%20hrs%204%20mins&color=F7DF1E)
-![MDX](https://img.shields.io/static/v1?style=flat-square&label=MDX&message=10%20hrs%2043%20mins&color=1B1F24)
-![JSON](https://img.shields.io/static/v1?style=flat-square&label=JSON&message=26%20hrs%2026%20mins&color=000000)
-![CSS](https://img.shields.io/static/v1?style=flat-square&label=CSS&message=11%20hrs%2053%20mins&color=1572B6)
-![Markdown](https://img.shields.io/static/v1?style=flat-square&label=Markdown&message=9%20hrs%2041%20mins&color=000000)
-
-</div>
-
 ---
 
 ## 🚀 CJ Jutba's GitHub Stats
