@@ -15,25 +15,26 @@
 
 ---
 
-## A Frontend Developer & Problem Solver
+# A Frontend Developer & Problem Solver
 
 <div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; width: 100%;">
+<tr style="border: none;">
+<td width="50%" valign="top" style="border: none; padding: 40px 30px;">
 
-- 🏢 I'm currently working on **cjjutba.com**
-- 🌱 I'm currently learning **Advanced React Patterns & Web3 Integration**
-- 💼 All of my projects are available at **[cjjutba.com/projects](https://cjjutba.com/projects)**
-- 📝 I regularly write articles on **[cjjutba.com/blog](https://cjjutba.com/blog)**
-- 💬 Ask me about **React, TypeScript, Next.js, Performance Optimization**
-- 📫 How to reach me **hello@cjjutba.com**
+### 🚀 **Current Focus**
+- 🏢 **Building** `cjjutba.com` - Next-generation portfolio platform
+- 🌱 **Learning** Advanced React Patterns & Web3 Integration
+
+### 🎯 **Expertise & Highlights**
+- 💼 **Portfolio:** All projects showcased at [cjjutba.com/projects](https://cjjutba.com/projects)
+- 📝 **Knowledge Sharing:** Technical articles at [cjjutba.com/blog](https://cjjutba.com/blog)
+- 💬 **Specializations:** React • TypeScript • Next.js • Performance Optimization
+- 📫 **Let's Connect:** [hello@cjjutba.com](mailto:hello@cjjutba.com)
 
 </td>
-<td width="50%" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="400" />
-
+<td width="50%" align="center" style="border: none; padding: 20px;">
+<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="400" alt="Developer Animation" />
 </td>
 </tr>
 </table>
@@ -58,7 +59,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="60" height="60" alt="Vite" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" width="60" height="60" alt="Webpack" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" width="60" height="60" alt="ESLint" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prettier/prettier-original.svg" width="60" height="60" alt="Prettier" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="60" height="60" alt="Jest" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/storybook/storybook-original.svg" width="60" height="60" alt="Storybook" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="60" height="60" alt="Figma" />
