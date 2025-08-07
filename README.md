@@ -5,14 +5,26 @@
 <br>
 
 <div align="center">
-  
-[![Website](https://img.shields.io/badge/🌐_Portfolio-cjjutba.com-0066CC?style=for-the-badge&logoColor=white)](https://cjjutba.com)
-[![Email](https://img.shields.io/badge/📧_Email-hello@cjjutba.com-EA4335?style=for-the-badge&logoColor=white)](mailto:hello@cjjutba.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-in/cjjutba-0A66C2?style=for-the-badge&logoColor=white)](https://linkedin.com/in/cjjutba)
-[![Instagram](https://img.shields.io/badge/📸_Instagram-@cjjutba-E4405F?style=for-the-badge&logoColor=white)](https://instagram.com/cjjutba)
 
-<img src="https://komarev.com/ghpvc/?username=cjjutba&color=0066CC&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+<a href="https://cjjutba.com">
+  <img src="https://img.shields.io/badge/Portfolio-cjjutba.com-21262d?style=flat-square&logo=react&logoColor=61DAFB&labelColor=21262d" alt="Portfolio" />
+</a>
+<a href="mailto:hello@cjjutba.com">
+  <img src="https://img.shields.io/badge/Email-hello@cjjutba.com-21262d?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=21262d" alt="Email" />
+</a>
+<a href="https://linkedin.com/in/cjjutba">
+  <img src="https://img.shields.io/badge/LinkedIn-in/cjjutba-21262d?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=21262d" alt="LinkedIn" />
+</a>
+<a href="https://instagram.com/cjjutba">
+  <img src="https://img.shields.io/badge/Instagram-@cjjutba-21262d?style=flat-square&logo=instagram&logoColor=E4405F&labelColor=21262d" alt="Instagram" />
+</a>
 
+<img src="https://komarev.com/ghpvc/?username=cjjutba&color=0366d6&style=flat-square&label=Profile%20Views&labelColor=21262d" alt="Profile Views" />
+
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🟢-Available_for_opportunities-28a745?style=flat-square&labelColor=21262d" alt="Available for opportunities" />
 </div>
 
 ---
