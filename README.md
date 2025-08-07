@@ -17,9 +17,9 @@
 
 ## A Frontend Developer & Problem Solver
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-
-<div style="flex: 1; min-width: 50%;">
+<table>
+<tr>
+<td width="50%" valign="top">
 
 **Currently working on** cjjutba.com
 
@@ -33,15 +33,14 @@
 
 **How to reach me** [hello@cjjutba.com](mailto:hello@cjjutba.com)
 
-</div>
-
-<div style="flex: 1; min-width: 50%; text-align: center;">
+</td>
+<td width="50%" align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="400" alt="Developer Animation" />
 
-</div>
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
