@@ -6,25 +6,28 @@
 
 <div align="center">
 
-<a href="https://cjjutba.com">
-  <img src="https://img.shields.io/badge/Portfolio-cjjutba.com-21262d?style=flat-square&logo=react&logoColor=61DAFB&labelColor=21262d" alt="Portfolio" />
+<a href="https://cjjutba.com" target="_blank">
+  <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-cjjutba.com-0d1117?style=for-the-badge&logo=globe&logoColor=ffffff&labelColor=30363d" alt="Portfolio" />
 </a>
+&nbsp;&nbsp;
 <a href="mailto:hello@cjjutba.com">
-  <img src="https://img.shields.io/badge/Email-hello@cjjutba.com-21262d?style=flat-square&logo=gmail&logoColor=EA4335&labelColor=21262d" alt="Email" />
+  <img src="https://img.shields.io/badge/Email-hello@cjjutba.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=30363d" alt="Email" />
 </a>
-<a href="https://linkedin.com/in/cjjutba">
-  <img src="https://img.shields.io/badge/LinkedIn-in/cjjutba-21262d?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=21262d" alt="LinkedIn" />
+&nbsp;&nbsp;
+<a href="https://linkedin.com/in/cjjutba" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-in/cjjutba-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=30363d" alt="LinkedIn" />
 </a>
-<a href="https://instagram.com/cjjutba">
-  <img src="https://img.shields.io/badge/Instagram-@cjjutba-21262d?style=flat-square&logo=instagram&logoColor=E4405F&labelColor=21262d" alt="Instagram" />
+&nbsp;&nbsp;
+<a href="https://instagram.com/cjjutba" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%40cjjutba-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=30363d" alt="Instagram" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=cjjutba&color=0366d6&style=flat-square&label=Profile%20Views&labelColor=21262d" alt="Profile Views" />
+<br><br>
 
-</div>
+<img src="https://komarev.com/ghpvc/?username=cjjutba&color=0366d6&style=for-the-badge&label=Profile%20Views&labelColor=30363d" alt="Profile Views" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/🟢-Available_for_opportunities-28a745?style=for-the-badge&labelColor=30363d" alt="Available for opportunities" />
 
-<div align="center">
-  <img src="https://img.shields.io/badge/🟢-Available_for_opportunities-28a745?style=flat-square&labelColor=21262d" alt="Available for opportunities" />
 </div>
 
 ---
