@@ -3,11 +3,30 @@
 </a>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=cjjutba"><img src="https://komarev.com/ghpvc/?username=cjjutba&style=flat-square&color=0ea5e9&label=PROFILE+VIEWS" alt="Profile Views"/></a>
-  <a href="https://github.com/cjjutba"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://linkedin.com/in/cjjutba"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/cjjutba"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <!-- Profile Views Badge -->
+  <a href="https://komarev.com/ghpvc/?username=cjjutba" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=cjjutba&style=for-the-badge&label=PROFILE+VIEWS&color=ef4444" alt="Profile Views"/>
+  </a>
+
+  <!-- GitHub Badge -->
+  <a href="https://github.com/cjjutba" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+
+  <!-- LinkedIn Badge -->
+  <a href="https://linkedin.com/in/cjjutba" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <!-- Twitter Badge -->
+  <a href="https://twitter.com/cjjutba" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
 </p>
+
+
+-----
+
 
 # Frontend Developer & Problem Solver
 
