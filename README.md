@@ -18,9 +18,10 @@
 # A Frontend Developer & Problem Solver
 
 <div align="center">
-<table border="0" cellpadding="0" cellspacing="0" style="border: none; border-collapse: collapse; width: 100%;">
-<tr style="border: none;">
-<td width="50%" valign="top" style="border: none; padding: 40px 30px;">
+
+<table style="border: none; border-collapse: collapse; background: transparent;">
+<tr>
+<td style="border: none; background: transparent; padding: 0;">
 
 ### 🚀 **Current Focus**
 - 🏢 **Building** `cjjutba.com` - Next-generation portfolio platform
@@ -33,12 +34,43 @@
 - 📫 **Let's Connect:** [hello@cjjutba.com](mailto:hello@cjjutba.com)
 
 </td>
-<td width="50%" align="center" style="border: none; padding: 20px;">
+<td style="border: none; background: transparent; padding: 0;" align="center">
+
 <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="400" alt="Developer Animation" />
+
 </td>
 </tr>
 </table>
+
 </div>
+
+---
+
+**Alternative Approach (If table still shows borders):**
+
+## A Frontend Developer & Problem Solver
+
+<div align="left" style="width: 48%; display: inline-block; vertical-align: top;">
+
+### 🚀 **Current Focus**
+- 🏢 **Building** `cjjutba.com` - Next-generation portfolio platform
+- 🌱 **Learning** Advanced React Patterns & Web3 Integration
+
+### 🎯 **Expertise & Highlights**
+- 💼 **Portfolio:** All projects showcased at [cjjutba.com/projects](https://cjjutba.com/projects)
+- 📝 **Knowledge Sharing:** Technical articles at [cjjutba.com/blog](https://cjjutba.com/blog)
+- 💬 **Specializations:** React • TypeScript • Next.js • Performance Optimization
+- 📫 **Let's Connect:** [hello@cjjutba.com](mailto:hello@cjjutba.com)
+
+</div>
+
+<div align="right" style="width: 48%; display: inline-block; vertical-align: top;">
+
+<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="400" alt="Developer Animation" />
+
+</div>
+
+<br clear="both" />
 
 ---
 
