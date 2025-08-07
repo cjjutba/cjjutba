@@ -9,18 +9,18 @@
   <a href="https://twitter.com/cjjutba"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
 </p>
 
-# 👨‍💻 Frontend Developer & Problem Solver
+# Frontend Developer & Problem Solver
 
 <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="100%" alt="Developer Animation" />
 
-## 🚀 What I'm Up To
+# What I'm Up To
 
 - 🔭 **Currently working on** [cjjutba.com](https://cjjutba.com)
 - 🌱 **Currently learning** Advanced React Patterns & Web3 Integration
 - 👯 **Looking to collaborate on** Open source React projects
 - 🤔 **Ask me about** React, TypeScript, Next.js, Performance Optimization
 
-## 🌐 Find Me Around The Web
+# Find Me Around The Web
 
 - 🌍 **Portfolio:** [cjjutba.com](https://cjjutba.com)
 - 📂 **Projects:** [cjjutba.com/projects](https://cjjutba.com/projects)
@@ -29,7 +29,7 @@
 
 ---
 
-## ## Technologies I Use
+# Technologies I Use
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60" height="60" alt="HTML5" />
@@ -65,7 +65,7 @@
 
 ---
 
-## ## 📊 Weekly Development Breakdown
+## Weekly Development Breakdown
 
 [![CJ's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cjjutba&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=compact&langs_count=8&range=last_7_days)](https://wakatime.com/@cjjutba)
 
@@ -77,7 +77,7 @@
 
 ---
 
-## ## 🚀 CJ Jutba's GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cjjutba&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff" alt="GitHub Stats" width="48%" />
