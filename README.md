@@ -1,10 +1,11 @@
+# CJ Jutba - Frontend Developer
+
 <!-- Clickable Cover Photo -->
 <div align="center">
   <a href="https://cjjutba.com" target="_blank">
     <img src="assets/cover-photo.png" alt="CJ Jutba - Frontend Developer" width="100%" />
   </a>
 </div>
-
 <br>
 
 <!-- Social Links and Profile Views in One Row -->
@@ -33,26 +34,6 @@
       </td>
     </tr>
   </table>
-</div>
-
-<br>
-
-<!-- Contact and Status Row -->
-<div align="center">
-
-<!-- Portfolio Badge -->
-<a href="https://cjjutba.com" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-cjjutba.com-2563eb?style=for-the-badge&logoColor=white&labelColor=1e293b&color=3b82f6" alt="Portfolio" />
-</a>
-&nbsp;&nbsp;
-<!-- Email Badge -->
-<a href="mailto:hello@cjjutba.com">
-  <img src="https://img.shields.io/badge/📧_Email-hello@cjjutba.com-ea4335?style=for-the-badge&logoColor=white&labelColor=1e293b&color=dc2626" alt="Email" />
-</a>
-&nbsp;&nbsp;
-<!-- Availability Status -->
-<img src="https://img.shields.io/badge/🟢_Available-For_Opportunities-22c55e?style=for-the-badge&labelColor=1e293b&color=16a34a" alt="Available for opportunities" />
-
 </div>
 
 ---
@@ -201,17 +182,10 @@ graph LR
 ## 🤝 Let's Collaborate
 
 I'm always open to discussing:
-
 - 🚀 **Innovative frontend projects**
 - 💼 **Full-time opportunities**
 - 🤝 **Open source contributions**
 - 🎓 **Knowledge sharing**
-
-<div align="center">
-
-[![Let's Connect](https://img.shields.io/badge/💬_Let's_Connect-Schedule_a_Call-3b82f6?style=for-the-badge&labelColor=1e293b&color=6366f1)](mailto:hello@cjjutba.com?subject=Let's%20Connect%20-%20GitHub)
-
-</div>
 
 ---
 
@@ -225,41 +199,9 @@ I'm always open to discussing:
 
 ---
 
-## 📫 Contact Information
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🌐_Portfolio-Professional-3b82f6?style=for-the-badge&labelColor=1e293b" alt="Portfolio" /><br>
-<a href="https://cjjutba.com"><strong>cjjutba.com</strong></a>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/📧_Email-Direct-dc2626?style=for-the-badge&labelColor=1e293b" alt="Email" /><br>
-<a href="mailto:hello@cjjutba.com"><strong>hello@cjjutba.com</strong></a>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/📍_Location-Remote-22c55e?style=for-the-badge&labelColor=1e293b" alt="Location" /><br>
-<strong>Plaridel, Misamis Occidental</strong>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/💼_Status-Available-8b5cf6?style=for-the-badge&labelColor=1e293b" alt="Status" /><br>
-<strong>Open for Opportunities</strong>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
 <div align="center">
 
 ### 🎯 **Ready to build something amazing together?**
-
-[![Portfolio](https://img.shields.io/badge/View_My_Work-Portfolio-3b82f6?style=for-the-badge&logo=globe&logoColor=white&labelColor=1e293b)](https://cjjutba.com)
-[![Email](https://img.shields.io/badge/Get_In_Touch-Email-dc2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e293b)](mailto:hello@cjjutba.com)
 
 **Made with ❤️ by [CJ Jutba](https://github.com/cjjutba)**  
 *Crafting beautiful user experiences, one component at a time.*
