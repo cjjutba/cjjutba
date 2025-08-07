@@ -17,27 +17,31 @@
 
 ## A Frontend Developer & Problem Solver
 
-<div align="left" style="width: 48%; display: inline-block; vertical-align: top;">
+<div style="display: flex; align-items: flex-start; gap: 20px;">
 
-### 🚀 **Current Focus**
-- 🏢 **Building** `cjjutba.com` - Next-generation portfolio platform
-- 🌱 **Learning** Advanced React Patterns & Web3 Integration
+<div style="flex: 1; min-width: 50%;">
 
-### 🎯 **Expertise & Highlights**
-- 💼 **Portfolio:** All projects showcased at [cjjutba.com/projects](https://cjjutba.com/projects)
-- 📝 **Knowledge Sharing:** Technical articles at [cjjutba.com/blog](https://cjjutba.com/blog)
-- 💬 **Specializations:** React • TypeScript • Next.js • Performance Optimization
-- 📫 **Let's Connect:** [hello@cjjutba.com](mailto:hello@cjjutba.com)
+**Currently working on** cjjutba.com
+
+**Currently learning** Advanced React Patterns & Web3 Integration
+
+**All projects available at** [cjjutba.com/projects](https://cjjutba.com/projects)
+
+**Technical articles at** [cjjutba.com/blog](https://cjjutba.com/blog)
+
+**Ask me about** React, TypeScript, Next.js, Performance Optimization
+
+**How to reach me** [hello@cjjutba.com](mailto:hello@cjjutba.com)
 
 </div>
 
-<div align="right" style="width: 48%; display: inline-block; vertical-align: top;">
+<div style="flex: 1; min-width: 50%; text-align: center;">
 
 <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="400" alt="Developer Animation" />
 
 </div>
 
-<br clear="both" />
+</div>
 
 ---
 
