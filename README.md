@@ -11,12 +11,16 @@
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cjjutba)
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cjjutba)
   [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cjjutba)
-
 </div>
 
 ---
 
 ## A Frontend Developer & Problem Solver
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
 - 🏢 I'm currently working on **cjjutba.com**
 - 🌱 I'm currently learning **Advanced React Patterns & Web3 Integration**
@@ -25,6 +29,16 @@
 - 💬 Ask me about **React, TypeScript, Next.js, Performance Optimization**
 - 📫 How to reach me **hello@cjjutba.com**
 
+</td>
+<td width="50%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="400" />
+
+</td>
+</tr>
+</table>
+</div>
+
 ---
 
 ## 💻 Things I code with
@@ -32,33 +46,26 @@
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white)
-![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
 ![Material UI](https://img.shields.io/badge/-Material%20UI-007FFF?style=flat-square&logo=mui&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white)
 ![CloudFlare](https://img.shields.io/badge/-CloudFlare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 </div>
 
@@ -85,14 +92,12 @@ CSS          21 mins        ▒░░░░░░░░░░░░░░░░�
 <div align="center">
 
 ### Most Used Languages
-
 ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=&message=TypeScript%2098.30%&color=3178C6)
 ![HTML](https://img.shields.io/static/v1?style=flat-square&label=&message=HTML%200.33%&color=E34F26)
 ![CSS](https://img.shields.io/static/v1?style=flat-square&label=&message=CSS%201.09%&color=1572B6)
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=&message=JavaScript%200.28%&color=F7DF1E)
 
 ### WakaTime Stats
-
 ![TypeScript](https://img.shields.io/static/v1?style=flat-square&label=TypeScript&message=867%20hrs%2035%20mins&color=3178C6)
 ![JavaScript](https://img.shields.io/static/v1?style=flat-square&label=JavaScript&message=25%20hrs%204%20mins&color=F7DF1E)
 ![MDX](https://img.shields.io/static/v1?style=flat-square&label=MDX&message=10%20hrs%2043%20mins&color=1B1F24)
@@ -111,31 +116,25 @@ CSS          21 mins        ▒░░░░░░░░░░░░░░░░�
 <tr>
 <td>
 
-**⭐ Total Stars Earned:** `151`
-**⏰ Total Commits (2025):** `151`
-**🔀 Total PRs:** `32`
-**🐛 Total Issues:** `0`
+**⭐ Total Stars Earned:** `151`  
+**⏰ Total Commits (2025):** `151`  
+**🔀 Total PRs:** `32`  
+**🐛 Total Issues:** `0`  
 **📊 Contributed to (last year):** `0`
 
 </td>
 <td>
 
-**📈 Total Contributions**
-
-`477`
-
+**📈 Total Contributions**  
+`477`  
 *Jun 13 - Present*
 
-**🔥 Current Streak**
-
-`2`
-
+**🔥 Current Streak**  
+`2`  
 *Aug 6 - Aug 7*
 
-**⚡ Longest Streak**
-
-`33`
-
+**⚡ Longest Streak**  
+`33`  
 *Jun 22 - Jul 24*
 
 </td>
