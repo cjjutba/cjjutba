@@ -11,7 +11,7 @@
 
 # Frontend Developer & Problem Solver
 
-<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="100%" alt="Developer Animation" />
+<img src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif" width="100%" alt="Developer Animation" />
 
 # What I'm Up To
 
@@ -65,19 +65,32 @@
 
 ---
 
-## Weekly Development Breakdown
-
-[![CJ's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cjjutba&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=compact&langs_count=8&range=last_7_days)](https://wakatime.com/@cjjutba)
+# Weekly Development Breakdown
 
 <p align="center">
   <a href="https://wakatime.com/@cjjutba">
-    <img src="https://wakatime.com/badge/user/cjjutba.svg?style=for-the-badge" alt="WakaTime Badge"/>
+    <img src="https://waka-readme-stats.vercel.app/api/wakatime?username=cjjutba&hide_border=true&theme=github_dark&bg_color=0d1117&layout=compact&custom_title=Weekly%20Coding%20Activity" alt="WakaTime Stats" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://wakatime.com/@cjjutba">
+    <img src="https://waka-readme-stats.vercel.app/api/wakatime?username=cjjutba&hide_border=true&theme=github_dark&bg_color=0d1117&langs_count=10&layout=side" alt="WakaTime Languages" />
+  </a>
+  <a href="https://wakatime.com/@cjjutba">
+    <img src="https://waka-readme-stats.vercel.app/api/wakatime?username=cjjutba&hide_border=true&theme=github_dark&bg_color=0d1117&stats=editors,os&layout=side" alt="WakaTime Editors and OS" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://wakatime.com/@cjjutba">
+    <img src="https://wakatime.com/badge/user/cjjutba.svg?style=for-the-badge" alt="WakaTime Total"/>
   </a>
 </p>
 
 ---
 
-## GitHub Stats
+# GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cjjutba&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff" alt="GitHub Stats" width="48%" />
