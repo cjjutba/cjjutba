@@ -18,9 +18,9 @@
 ## A Frontend Developer & Problem Solver
 
 <div align="center">
-<table>
+<table border="0" cellpadding="0" cellspacing="0" style="border: none;">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" style="border: none;">
 
 - 🏢 I'm currently working on **cjjutba.com**
 - 🌱 I'm currently learning **Advanced React Patterns & Web3 Integration**
@@ -30,9 +30,9 @@
 - 📫 How to reach me **hello@cjjutba.com**
 
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" valign="top" style="border: none;">
 
-<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="400" />
+<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="280" height="200" />
 
 </td>
 </tr>
