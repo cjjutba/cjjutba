@@ -19,7 +19,7 @@
 
 # 👨‍💻 Frontend Developer & Problem Solver
 
-<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="300" alt="Developer Animation" />
+<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="100%" alt="Developer Animation" />
 
 </div>
 
@@ -38,17 +38,6 @@
 - 📂 **Projects:** [cjjutba.com/projects](https://cjjutba.com/projects)
 - ✍️ **Blog:** [cjjutba.com/blog](https://cjjutba.com/blog)
 - 📧 **Email:** [hello@cjjutba.com](mailto:hello@cjjutba.com)
-
-### 💻 Tech Stack & Tools
-
-```javascript
-const developer = {
-    languages: ["JavaScript", "TypeScript", "Python"],
-    frameworks: ["React", "Next.js", "Node.js"],
-    tools: ["VS Code", "Git", "Docker", "Figma"],
-    currentFocus: "Advanced React Patterns & Web3 Integration"
-};
-```
 
 </div>
 
