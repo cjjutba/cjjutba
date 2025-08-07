@@ -1,12 +1,6 @@
 # CJ Jutba
 
 <div align="center">
-  <img src="assets/cover-photo.png" alt="CJ Jutba - Frontend Developer" width="100%" />
-</div>
-
-<br>
-
-<div align="center">
   
 [![Website](https://img.shields.io/badge/🌐_Portfolio-cjjutba.site-0066CC?style=for-the-badge&logoColor=white)](https://cjjutba.site)
 [![Email](https://img.shields.io/badge/📧_Email-hello@cjjutba.com-EA4335?style=for-the-badge&logoColor=white)](mailto:hello@cjjutba.com)
