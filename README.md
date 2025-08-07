@@ -6,27 +6,23 @@
 </div>
 <br>
 
-<!-- Social Links and Profile Views in One Row -->
-<div align="center" style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-  <div style="display: flex; gap: 10px;">
-    <!-- GitHub Badge -->
-    <a href="https://github.com/cjjutba" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <!-- LinkedIn Badge -->
-    <a href="https://linkedin.com/in/cjjutba" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <!-- Instagram Badge -->
-    <a href="https://instagram.com/cjjutba" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-  </div>
-  <div>
-    <!-- Profile Views -->
-    <img src="https://komarev.com/ghpvc/?username=cjjutba&color=3b82f6&style=for-the-badge&label=Profile%20Views" alt="Profile Views" />
-  </div>
-</div>
+<!-- Social Links and Profile Views -->
+<table width="100%">
+<tr>
+<td align="left">
+  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cjjutba)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cjjutba)
+[![Instagram](https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/cjjutba)
+
+</td>
+<td align="right">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=cjjutba&color=3b82f6&style=for-the-badge&label=Profile%20Views)
+
+</td>
+</tr>
+</table>
 
 ---
 
