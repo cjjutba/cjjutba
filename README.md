@@ -9,17 +9,23 @@
 <!-- Social Links and Profile Views -->
 <table width="100%">
 <tr>
-<td align="left">
-  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cjjutba)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cjjutba)
-[![Instagram](https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/cjjutba)
-
+<td align="left" width="30%">
+  <a href="https://github.com/cjjutba">
+    <img src="https://komarev.com/ghpvc/?username=cjjutba&style=for-the-badge&color=ff5722&label=Profile+Views" alt="Profile Views"/>
+  </a>
 </td>
-<td align="right">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=cjjutba&color=3b82f6&style=for-the-badge&label=Profile%20Views)
-
+<td align="right" width="70%">
+    <a href="https://github.com/cjjutba" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/>
+    </a>
+    &nbsp;
+    <a href="https://linkedin.com/in/cjjutba" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=%230077B5" alt="LinkedIn"/>
+    </a>
+    &nbsp;
+    <a href="https://twitter.com/cjjutba" target="_blank">
+        <img src="https://img.shields.io/badge/Twitter-FFFFFF?style=for-the-badge&logo=twitter&logoColor=%231DA1F2" alt="Twitter"/>
+    </a>
 </td>
 </tr>
 </table>
@@ -191,7 +197,6 @@ I'm always open to discussing:
 
 ### 🎯 **Ready to build something amazing together?**
 
-**Made with ❤️ by [CJ Jutba](https://github.com/cjjutba)**  
-*Crafting beautiful user experiences, one component at a time.*
+**Made with ❤️ by [CJ Jutba](https://github.com/cjjutba)** *Crafting beautiful user experiences, one component at a time.*
 
 </div>
