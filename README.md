@@ -43,7 +43,8 @@
 
 ## Things I code with
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 20px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 15px; padding: 20px; max-width: 100%;">
+
   <div style="position: relative; transition: all 0.3s ease;" onmouseover="this.style.transform='scale(1.1) translateY(-5px)'; this.style.filter='drop-shadow(0 10px 20px rgba(227, 79, 38, 0.3))'" onmouseout="this.style.transform='scale(1) translateY(0)'; this.style.filter='drop-shadow(0 5px 10px rgba(0, 0, 0, 0.1))'">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60" height="60" alt="HTML5" style="filter: drop-shadow(0 5px 10px rgba(0, 0, 0, 0.1));" />
   </div>
