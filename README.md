@@ -1,12 +1,46 @@
+<!-- Clickable Cover Photo -->
 <div align="center">
-  <img src="assets/cover-photo.png" alt="CJ Jutba - Frontend Developer" width="100%" />
+  <a href="https://cjjutba.com" target="_blank">
+    <img src="assets/cover-photo.png" alt="CJ Jutba - Frontend Developer" width="100%" />
+  </a>
 </div>
 
 <br>
 
+<!-- Social Links and Profile Views in One Row -->
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td align="left">
+        <!-- GitHub Badge -->
+        <a href="https://github.com/cjjutba" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-cjjutba-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1e293b" alt="GitHub" />
+        </a>
+        &nbsp;
+        <!-- LinkedIn Badge -->
+        <a href="https://linkedin.com/in/cjjutba" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-in/cjjutba-0077b5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e293b" alt="LinkedIn" />
+        </a>
+        &nbsp;
+        <!-- Instagram Badge -->
+        <a href="https://instagram.com/cjjutba" target="_blank">
+          <img src="https://img.shields.io/badge/Instagram-@cjjutba-e4405f?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1e293b" alt="Instagram" />
+        </a>
+      </td>
+      <td align="right">
+        <!-- Profile Views -->
+        <img src="https://komarev.com/ghpvc/?username=cjjutba&color=3b82f6&style=for-the-badge&label=Profile%20Views&labelColor=1e293b" alt="Profile Views" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<!-- Contact and Status Row -->
 <div align="center">
 
-<!-- Portfolio Badge with Custom Logo -->
+<!-- Portfolio Badge -->
 <a href="https://cjjutba.com" target="_blank">
   <img src="https://img.shields.io/badge/🌐_Portfolio-cjjutba.com-2563eb?style=for-the-badge&logoColor=white&labelColor=1e293b&color=3b82f6" alt="Portfolio" />
 </a>
@@ -16,23 +50,8 @@
   <img src="https://img.shields.io/badge/📧_Email-hello@cjjutba.com-ea4335?style=for-the-badge&logoColor=white&labelColor=1e293b&color=dc2626" alt="Email" />
 </a>
 &nbsp;&nbsp;
-<!-- LinkedIn Badge -->
-<a href="https://linkedin.com/in/cjjutba" target="_blank">
-  <img src="https://img.shields.io/badge/💼_LinkedIn-in/cjjutba-0a66c2?style=for-the-badge&logoColor=white&labelColor=1e293b&color=0ea5e9" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;
-<!-- Instagram Badge -->
-<a href="https://instagram.com/cjjutba" target="_blank">
-  <img src="https://img.shields.io/badge/📸_Instagram-@cjjutba-e4405f?style=for-the-badge&logoColor=white&labelColor=1e293b&color=ec4899" alt="Instagram" />
-</a>
-
-<br><br>
-
-<!-- Profile Views with Eye Icon -->
-<img src="https://img.shields.io/badge/👁️_Profile_Views-71-6366f1?style=for-the-badge&labelColor=1e293b&color=8b5cf6" alt="Profile Views" />
-&nbsp;&nbsp;
 <!-- Availability Status -->
-<img src="https://img.shields.io/badge/🟢_Status-Available_for_Opportunities-22c55e?style=for-the-badge&labelColor=1e293b&color=16a34a" alt="Available for opportunities" />
+<img src="https://img.shields.io/badge/🟢_Available-For_Opportunities-22c55e?style=for-the-badge&labelColor=1e293b&color=16a34a" alt="Available for opportunities" />
 
 </div>
 
