@@ -7,26 +7,28 @@
 <br>
 
 <!-- Social Links and Profile Views -->
-<div align="center">
-  <table width="100%" style="border: none;">
-    <tr>
-      <td align="left" width="30%" style="border: none;">
-        <img src="https://komarev.com/ghpvc/?username=cjjutba&style=flat-square&color=2b3137&label=PROFILE+VIEWS" alt="Profile Views" style="border-radius: 8px;"/>
-      </td>
-      <td align="right" width="70%" style="border: none;">
-        <a href="https://github.com/cjjutba" target="_blank">
-          <img src="https://img.shields.io/badge/Github-24292e?style=flat-square&logo=github&logoColor=white" alt="GitHub" style="border-radius: 8px; margin: 0 4px;"/>
-        </a>
-        <a href="https://linkedin.com/in/cjjutba" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 8px; margin: 0 4px;"/>
-        </a>
-        <a href="https://twitter.com/cjjutba" target="_blank">
-          <img src="https://img.shields.io/badge/Twitter-1da1f2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" style="border-radius: 8px; margin: 0 4px;"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+<table width="100%">
+<tr>
+<td align="left" width="30%">
+  <a href="https://github.com/cjjutba">
+    <img src="https://komarev.com/ghpvc/?username=cjjutba&style=for-the-badge&color=ff5722&label=Profile+Views" alt="Profile Views"/>
+  </a>
+</td>
+<td align="right" width="70%">
+    <a href="https://github.com/cjjutba" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/>
+    </a>
+    &nbsp;
+    <a href="https://linkedin.com/in/cjjutba" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=%230077B5" alt="LinkedIn"/>
+    </a>
+    &nbsp;
+    <a href="https://twitter.com/cjjutba" target="_blank">
+        <img src="https://img.shields.io/badge/Twitter-FFFFFF?style=for-the-badge&logo=twitter&logoColor=%231DA1F2" alt="Twitter"/>
+    </a>
+</td>
+</tr>
+</table>
 
 ---
 
