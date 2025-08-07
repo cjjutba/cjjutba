@@ -17,34 +17,31 @@
 
 ## A Frontend Developer & Problem Solver
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="left" style="width: 48%; display: inline-block; vertical-align: top;">
 
-**Currently working on** cjjutba.com
+### 🚀 **Current Focus**
+- 🏢 **Building** `cjjutba.com` - Next-generation portfolio platform
+- 🌱 **Learning** Advanced React Patterns & Web3 Integration
 
-**Currently learning** Advanced React Patterns & Web3 Integration
+### 🎯 **Expertise & Highlights**
+- 💼 **Portfolio:** All projects showcased at [cjjutba.com/projects](https://cjjutba.com/projects)
+- 📝 **Knowledge Sharing:** Technical articles at [cjjutba.com/blog](https://cjjutba.com/blog)
+- 💬 **Specializations:** React • TypeScript • Next.js • Performance Optimization
+- 📫 **Let's Connect:** [hello@cjjutba.com](mailto:hello@cjjutba.com)
 
-**All projects available at** [cjjutba.com/projects](https://cjjutba.com/projects)
+</div>
 
-**Technical articles at** [cjjutba.com/blog](https://cjjutba.com/blog)
-
-**Ask me about** React, TypeScript, Next.js, Performance Optimization
-
-**How to reach me** [hello@cjjutba.com](mailto:hello@cjjutba.com)
-
-</td>
-<td width="50%" align="center">
+<div align="right" style="width: 48%; display: inline-block; vertical-align: top;">
 
 <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="400" alt="Developer Animation" />
 
-</td>
-</tr>
-</table>
+</div>
+
+<br clear="both" />
 
 ---
 
-## Things I code with
+## Technologies I Use
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60" height="60" alt="HTML5" />
