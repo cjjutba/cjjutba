@@ -1,5 +1,3 @@
-# CJ Jutba
-
 <div align="center">
   <img src="assets/cover-photo.png" alt="CJ Jutba - Frontend Developer" width="100%" />
 </div>
@@ -8,7 +6,7 @@
 
 <div align="center">
   
-[![Website](https://img.shields.io/badge/🌐_Portfolio-cjjutba.site-0066CC?style=for-the-badge&logoColor=white)](https://cjjutba.site)
+[![Website](https://img.shields.io/badge/🌐_Portfolio-cjjutba.com-0066CC?style=for-the-badge&logoColor=white)](https://cjjutba.com)
 [![Email](https://img.shields.io/badge/📧_Email-hello@cjjutba.com-EA4335?style=for-the-badge&logoColor=white)](mailto:hello@cjjutba.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-in/cjjutba-0A66C2?style=for-the-badge&logoColor=white)](https://linkedin.com/in/cjjutba)
 [![Instagram](https://img.shields.io/badge/📸_Instagram-@cjjutba-E4405F?style=for-the-badge&logoColor=white)](https://instagram.com/cjjutba)
@@ -163,7 +161,6 @@ graph LR
 ## 🤝 Let's Collaborate
 
 I'm always open to discussing:
-
 - 🚀 **Innovative frontend projects**
 - 💼 **Full-time opportunities**
 - 🤝 **Open source contributions**
@@ -190,34 +187,28 @@ I'm always open to discussing:
 ## 📫 Contact Information
 
 <div align="center">
+
 <table>
 <tr>
 <td align="center">
-
-**🌐 Portfolio**  
-[cjjutba.com](https://cjjutba.com)
-
+<strong>🌐 Portfolio</strong><br>
+<a href="https://cjjutba.com">cjjutba.com</a>
 </td>
 <td align="center">
-
-**📧 Email**  
-[hello@cjjutba.com](mailto:hello@cjjutba.com)
-
+<strong>📧 Email</strong><br>
+<a href="mailto:hello@cjjutba.com">hello@cjjutba.com</a>
 </td>
 <td align="center">
-
-**📍 Location**  
+<strong>📍 Location</strong><br>
 Plaridel, Misamis Occidental
-
 </td>
 <td align="center">
-
-**📱 Available**  
+<strong>📱 Available</strong><br>
 Open for opportunities
-
 </td>
 </tr>
 </table>
+
 </div>
 
 ---
