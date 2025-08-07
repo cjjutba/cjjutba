@@ -6,33 +6,39 @@
 
 <div align="center">
 
+<!-- Portfolio Badge with Custom Logo -->
 <a href="https://cjjutba.com" target="_blank">
-  <img src="https://custom-icon-badges.demolab.com/badge/Portfolio-cjjutba.com-0d1117?style=for-the-badge&logo=globe&logoColor=ffffff&labelColor=30363d" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/🌐_Portfolio-cjjutba.com-2563eb?style=for-the-badge&logoColor=white&labelColor=1e293b&color=3b82f6" alt="Portfolio" />
 </a>
 &nbsp;&nbsp;
+<!-- Email Badge -->
 <a href="mailto:hello@cjjutba.com">
-  <img src="https://img.shields.io/badge/Email-hello@cjjutba.com-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=30363d" alt="Email" />
+  <img src="https://img.shields.io/badge/📧_Email-hello@cjjutba.com-ea4335?style=for-the-badge&logoColor=white&labelColor=1e293b&color=dc2626" alt="Email" />
 </a>
 &nbsp;&nbsp;
+<!-- LinkedIn Badge -->
 <a href="https://linkedin.com/in/cjjutba" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-in/cjjutba-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=30363d" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/💼_LinkedIn-in/cjjutba-0a66c2?style=for-the-badge&logoColor=white&labelColor=1e293b&color=0ea5e9" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;
+<!-- Instagram Badge -->
 <a href="https://instagram.com/cjjutba" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%40cjjutba-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=30363d" alt="Instagram" />
+  <img src="https://img.shields.io/badge/📸_Instagram-@cjjutba-e4405f?style=for-the-badge&logoColor=white&labelColor=1e293b&color=ec4899" alt="Instagram" />
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=cjjutba&color=0366d6&style=for-the-badge&label=Profile%20Views&labelColor=30363d" alt="Profile Views" />
+<!-- Profile Views with Eye Icon -->
+<img src="https://img.shields.io/badge/👁️_Profile_Views-71-6366f1?style=for-the-badge&labelColor=1e293b&color=8b5cf6" alt="Profile Views" />
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/🟢-Available_for_opportunities-28a745?style=for-the-badge&labelColor=30363d" alt="Available for opportunities" />
+<!-- Availability Status -->
+<img src="https://img.shields.io/badge/🟢_Status-Available_for_Opportunities-22c55e?style=for-the-badge&labelColor=1e293b&color=16a34a" alt="Available for opportunities" />
 
 </div>
 
 ---
 
-## 👨‍💻 About
+## 👨‍💻 About Me
 
 **Computer Engineering graduate** specializing in **front-end development**. I transform complex problems into beautiful, intuitive, and responsive user interfaces. My engineering background gives me a unique perspective—I don't just build what looks good, I engineer UIs that are performant, accessible, and integrate seamlessly with backend services.
 
@@ -53,27 +59,27 @@ const cjJutba = {
 
 <div align="center">
 
-### Frontend Development
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+### 💻 Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-### Styling & UI
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+### 🎨 Styling & UI
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Sass](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
-### Development Tools
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+### 🔧 Development Tools
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-### Deployment & Hosting
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+### 🚀 Deployment & Hosting
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 </div>
 
@@ -87,18 +93,18 @@ const cjJutba = {
 <tr>
 <td>
   
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cjjutba&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0066CC&text_color=c9d1d9&icon_color=0066CC)](https://github.com/cjjutba)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cjjutba&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=e2e8f0&icon_color=8b5cf6)](https://github.com/cjjutba)
 
 </td>
 <td>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cjjutba&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0066CC&text_color=c9d1d9)](https://github.com/cjjutba)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cjjutba&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=e2e8f0)](https://github.com/cjjutba)
 
 </td>
 </tr>
 </table>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cjjutba&theme=github-dark-blue&hide_border=true&background=0d1117&ring=0066CC&fire=0066CC&currStreakLabel=c9d1d9)](https://github.com/cjjutba)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=cjjutba&theme=tokyonight&hide_border=true&background=0d1117&ring=3b82f6&fire=8b5cf6&currStreakLabel=e2e8f0&sideLabels=e2e8f0&dates=94a3b8)](https://github.com/cjjutba)
 
 </div>
 
@@ -108,13 +114,13 @@ const cjJutba = {
 
 <div align="center">
 
-| Area | Experience |
-|------|------------|
-| 🎯 **Projects Delivered** | 15+ successful web applications |
-| 👥 **Client Satisfaction** | 100% positive feedback rate |
-| 🚀 **Development Focus** | Modern React ecosystem |
-| 📱 **Specialization** | Responsive UI/UX implementation |
-| ⚡ **Performance** | Optimized for Core Web Vitals |
+| 🎯 **Metric** | 📈 **Achievement** |
+|---------------|-------------------|
+| **Projects Delivered** | 15+ successful web applications |
+| **Client Satisfaction** | 100% positive feedback rate |
+| **Development Focus** | Modern React ecosystem |
+| **Specialization** | Responsive UI/UX implementation |
+| **Performance** | Optimized for Core Web Vitals |
 
 </div>
 
@@ -127,21 +133,21 @@ const cjJutba = {
 <td width="50%">
 
 ### 🎨 Frontend Development
-- **React Ecosystem** - Hooks, Context, State Management
-- **TypeScript** - Type-safe development
-- **Responsive Design** - Mobile-first approach
-- **Performance Optimization** - Fast loading times
-- **Accessibility** - WCAG compliant interfaces
+- **⚛️ React Ecosystem** - Hooks, Context, State Management
+- **📘 TypeScript** - Type-safe development
+- **📱 Responsive Design** - Mobile-first approach
+- **⚡ Performance Optimization** - Fast loading times
+- **♿ Accessibility** - WCAG compliant interfaces
 
 </td>
 <td width="50%">
 
 ### 🔧 Development Practices
-- **Clean Code** - Maintainable and readable
-- **Component Architecture** - Reusable UI components
-- **Version Control** - Git workflow management
-- **Testing** - Quality assurance focused
-- **Documentation** - Well-documented projects
+- **✨ Clean Code** - Maintainable and readable
+- **🧩 Component Architecture** - Reusable UI components
+- **🔄 Version Control** - Git workflow management
+- **🧪 Testing** - Quality assurance focused
+- **📚 Documentation** - Well-documented projects
 
 </td>
 </tr>
@@ -153,12 +159,12 @@ const cjJutba = {
 
 ```mermaid
 graph LR
-    A[Advanced React Patterns] --> B[Next.js 14 Features]
-    B --> C[Web Performance Optimization]
-    C --> D[Web3 Integration]
-    D --> E[Node.js Backend]
+    A[🔥 Advanced React Patterns] --> B[⚡ Next.js 14 Features]
+    B --> C[🚀 Web Performance Optimization]
+    C --> D[🌐 Web3 Integration]
+    D --> E[🛠️ Node.js Backend]
     
-    style A fill:#0066CC,stroke:#ffffff,color:#ffffff
+    style A fill:#3b82f6,stroke:#ffffff,color:#ffffff
     style B fill:#000000,stroke:#ffffff,color:#ffffff
     style C fill:#61DAFB,stroke:#000000,color:#000000
     style D fill:#F16822,stroke:#ffffff,color:#ffffff
@@ -176,6 +182,7 @@ graph LR
 ## 🤝 Let's Collaborate
 
 I'm always open to discussing:
+
 - 🚀 **Innovative frontend projects**
 - 💼 **Full-time opportunities**
 - 🤝 **Open source contributions**
@@ -183,17 +190,17 @@ I'm always open to discussing:
 
 <div align="center">
 
-[![Let's Connect](https://img.shields.io/badge/💬_Let's_Connect-Schedule_a_call-0066CC?style=for-the-badge&logoColor=white)](mailto:hello@cjjutba.com?subject=Let's%20Connect%20-%20GitHub)
+[![Let's Connect](https://img.shields.io/badge/💬_Let's_Connect-Schedule_a_Call-3b82f6?style=for-the-badge&labelColor=1e293b&color=6366f1)](mailto:hello@cjjutba.com?subject=Let's%20Connect%20-%20GitHub)
 
 </div>
 
 ---
 
-## 🌟 GitHub Achievements
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=cjjutba&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=4&no-bg=true)](https://github.com/cjjutba)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=cjjutba&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4&no-bg=true&title=Stars,Followers,Commits,Repositories)](https://github.com/cjjutba)
 
 </div>
 
@@ -205,21 +212,21 @@ I'm always open to discussing:
 
 <table>
 <tr>
-<td align="center">
-<strong>🌐 Portfolio</strong><br>
-<a href="https://cjjutba.com">cjjutba.com</a>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🌐_Portfolio-Professional-3b82f6?style=for-the-badge&labelColor=1e293b" alt="Portfolio" /><br>
+<a href="https://cjjutba.com"><strong>cjjutba.com</strong></a>
 </td>
-<td align="center">
-<strong>📧 Email</strong><br>
-<a href="mailto:hello@cjjutba.com">hello@cjjutba.com</a>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/📧_Email-Direct-dc2626?style=for-the-badge&labelColor=1e293b" alt="Email" /><br>
+<a href="mailto:hello@cjjutba.com"><strong>hello@cjjutba.com</strong></a>
 </td>
-<td align="center">
-<strong>📍 Location</strong><br>
-Plaridel, Misamis Occidental
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/📍_Location-Remote-22c55e?style=for-the-badge&labelColor=1e293b" alt="Location" /><br>
+<strong>Plaridel, Misamis Occidental</strong>
 </td>
-<td align="center">
-<strong>📱 Available</strong><br>
-Open for opportunities
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/💼_Status-Available-8b5cf6?style=for-the-badge&labelColor=1e293b" alt="Status" /><br>
+<strong>Open for Opportunities</strong>
 </td>
 </tr>
 </table>
@@ -230,8 +237,12 @@ Open for opportunities
 
 <div align="center">
 
-**Made with ❤️ by [CJ Jutba](https://github.com/cjjutba)**
+### 🎯 **Ready to build something amazing together?**
 
+[![Portfolio](https://img.shields.io/badge/View_My_Work-Portfolio-3b82f6?style=for-the-badge&logo=globe&logoColor=white&labelColor=1e293b)](https://cjjutba.com)
+[![Email](https://img.shields.io/badge/Get_In_Touch-Email-dc2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e293b)](mailto:hello@cjjutba.com)
+
+**Made with ❤️ by [CJ Jutba](https://github.com/cjjutba)**  
 *Crafting beautiful user experiences, one component at a time.*
 
 </div>
