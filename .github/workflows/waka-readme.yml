@@ -1,162 +1,54 @@
-name: Update README with WakaTime Stats
+name: Waka Readme
 
 on:
   schedule:
-    # Runs every day at 00:00 UTC
+    # Runs every day at 12:00 AM UTC (8:00 AM Philippine Time)
     - cron: '0 0 * * *'
   workflow_dispatch: # Allows manual triggering
-
+  
 jobs:
   update-readme:
+    name: Update Readme with Metrics
     runs-on: ubuntu-latest
-    
+    permissions:
+      contents: write
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
+      - uses: anmol098/waka-readme-stats@master
         with:
-          node-version: '18'
-          
-      - name: Update README with WakaTime Stats
-        env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-        run: |
-          node << 'EOF'
-          const fs = require('fs');
-          const https = require('https');
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
           
-          const WAKATIME_API_KEY = process.env.WAKATIME_API_KEY;
-          const README_PATH = './README.md';
+          # Customization flags
+          SHOW_OS: "True"
+          SHOW_PROJECTS: "True" 
+          SHOW_TIMEZONE: "True"
+          SHOW_COMMIT: "True"
+          SHOW_DAYS_OF_WEEK: "True"
+          SHOW_LANGUAGE: "True"
+          SHOW_EDITORS: "True"
+          SHOW_LANGUAGE_PER_REPO: "True"
+          SHOW_SHORT_INFO: "True"
+          SHOW_LOC_CHART: "False" # Set to True if you want lines of code chart
+          SHOW_LINES_OF_CODE: "False" # Heavy operation, set to True if needed
+          SHOW_PROFILE_VIEWS: "True"
+          SHOW_UPDATED_DATE: "True"
+          SHOW_TOTAL_CODE_TIME: "True"
           
-          function makeRequest(url, headers) {
-            return new Promise((resolve, reject) => {
-              const req = https.get(url, { headers }, (res) => {
-                let data = '';
-                res.on('data', chunk => data += chunk);
-                res.on('end', () => {
-                  try {
-                    resolve(JSON.parse(data));
-                  } catch (error) {
-                    reject(error);
-                  }
-                });
-              });
-              req.on('error', reject);
-            });
-          }
+          # Customization options
+          LOCALE: "en"
+          COMMIT_MESSAGE: "📊 Updated with Dev Metrics"
+          SECTION_NAME: "waka"
           
-          async function getWakaTimeStats() {
-            const headers = {
-              'Authorization': `Bearer ${WAKATIME_API_KEY}`,
-              'User-Agent': 'GitHub-Actions-README-Updater'
-            };
+          # Progress bar symbol (1, 2, or 3)
+          SYMBOL_VERSION: "1"
           
-            try {
-              const stats = await makeRequest(
-                'https://wakatime.com/api/v1/users/current/stats/last_7_days',
-                headers
-              );
-              return stats.data;
-            } catch (error) {
-              console.error('Error fetching WakaTime data:', error);
-              return null;
-            }
-          }
+          # Repositories to ignore (comma-separated)
+          # IGNORED_REPOS: "repo1,repo2"
           
-          function formatDuration(totalSeconds) {
-            const hours = Math.floor(totalSeconds / 3600);
-            const minutes = Math.floor((totalSeconds % 3600) / 60);
-            
-            if (hours > 0) {
-              return `${hours} hr${hours !== 1 ? 's' : ''} ${minutes} min${minutes !== 1 ? 's' : ''}`;
-            }
-            return `${minutes} min${minutes !== 1 ? 's' : ''}`;
-          }
+          # Date format for updated date
+          UPDATED_DATE_FORMAT: "%d/%m/%Y %H:%M:%S"
           
-          function createProgressBar(percentage, length = 25) {
-            const filled = Math.round((percentage / 100) * length);
-            const empty = length - filled;
-            return '█'.repeat(filled) + '░'.repeat(empty);
-          }
-          
-          function generateWakaTimeSection(stats) {
-            if (!stats || !stats.languages || stats.languages.length === 0) {
-              return `\`\`\`text\nNo coding activity tracked this week\n\`\`\``;
-            }
-          
-            const totalTime = formatDuration(stats.total_seconds);
-            let content = `\`\`\`text\nTotal Time: ${totalTime}\n`;
-          
-            const topLanguages = stats.languages.slice(0, 5);
-            
-            topLanguages.forEach(lang => {
-              const time = formatDuration(lang.total_seconds);
-              const percentage = lang.percent;
-              const progressBar = createProgressBar(percentage);
-              const paddedLang = lang.name.padEnd(12);
-              const paddedTime = time.padEnd(15);
-              
-              content += `${paddedLang} ${paddedTime} ${progressBar} ${percentage.toFixed(2)} %\n`;
-            });
-          
-            content += '```';
-            return content;
-          }
-          
-          async function updateReadme() {
-            try {
-              console.log('Fetching WakaTime data...');
-              const stats = await getWakaTimeStats();
-              
-              if (!stats) {
-                console.error('Failed to fetch WakaTime data');
-                return;
-              }
-          
-              console.log('Reading README.md...');
-              const readmeContent = fs.readFileSync(README_PATH, 'utf8');
-              
-              const wakaSection = generateWakaTimeSection(stats);
-              
-              const startComment = '<!--START_SECTION:waka-->';
-              const endComment = '<!--END_SECTION:waka-->';
-              
-              const startIndex = readmeContent.indexOf(startComment);
-              const endIndex = readmeContent.indexOf(endComment);
-              
-              if (startIndex === -1 || endIndex === -1) {
-                console.error('Could not find WakaTime section markers in README.md');
-                return;
-              }
-              
-              const beforeSection = readmeContent.substring(0, startIndex + startComment.length);
-              const afterSection = readmeContent.substring(endIndex);
-              
-              const newContent = `${beforeSection}\n${wakaSection}\n${afterSection}`;
-              
-              console.log('Updating README.md...');
-              fs.writeFileSync(README_PATH, newContent, 'utf8');
-              
-              console.log('✅ README.md updated successfully!');
-            } catch (error) {
-              console.error('Error updating README:', error);
-              process.exit(1);
-            }
-          }
-          
-          updateReadme();
-          EOF
-          
-      - name: Commit changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add README.md
-          if git diff --staged --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "📊 Update WakaTime stats"
-            git push
-          fi
+          # Commit settings
+          COMMIT_BY_ME: "False"
+          # COMMIT_USERNAME: "readme-bot"
+          # COMMIT_EMAIL: "41898282+github-actions[bot]@users.noreply.github.com"
