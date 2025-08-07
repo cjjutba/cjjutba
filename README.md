@@ -15,94 +15,34 @@
 
 ---
 
-# 💫 Frontend Developer & Problem Solver
+## A Frontend Developer & Problem Solver
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=80&lines=Crafting+Digital+Experiences;Building+Tomorrow's+Web" alt="Typing Animation" />
-</div>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<table style="border: none; border-collapse: collapse; width: 100%;" border="0" cellspacing="0" cellpadding="0">
-<tr style="border: none;">
-<td width="50%" valign="top" style="border: none; padding: 20px;">
+**Currently working on** cjjutba.com
 
-### 🚀 Current Focus
-```javascript
-const developer = {
-  currentProject: "cjjutba.com",
-  learning: ["Advanced React Patterns", "Web3 Integration"],
-  expertise: ["React", "TypeScript", "Next.js", "Performance Optimization"],
-  architecture: "Enterprise-grade solutions"
-};
-```
+**Currently learning** Advanced React Patterns & Web3 Integration
 
-### 📊 Professional Highlights
-<div style="display: flex; flex-direction: column; gap: 12px;">
+**All projects available at** [cjjutba.com/projects](https://cjjutba.com/projects)
 
-**🔭 Currently Building**  
-`cjjutba.com` - Next-generation web platform
+**Technical articles at** [cjjutba.com/blog](https://cjjutba.com/blog)
 
-**📚 Learning Journey**  
-`Advanced React Patterns` • `Web3 Integration` • `Microservices`
+**Ask me about** React, TypeScript, Next.js, Performance Optimization
 
-**🎯 Expertise Areas**  
-`React` • `TypeScript` • `Next.js` • `Performance Optimization`
-
-**📁 Portfolio Hub**  
-[🌐 cjjutba.com/projects](https://cjjutba.com/projects)
-
-**✍️ Technical Insights**  
-[📝 cjjutba.com/blog](https://cjjutba.com/blog)
-
-**🤝 Let's Connect**  
-[📧 hello@cjjutba.com](mailto:hello@cjjutba.com)
-
-</div>
-
-### 🛠️ Tech Arsenal
-```yaml
-Frontend: React, Next.js, TypeScript, Tailwind CSS
-State: Redux Toolkit, Zustand, React Query
-Testing: Jest, Cypress, React Testing Library
-Tools: Vite, Webpack, Docker, Git
-Cloud: Vercel, AWS, Cloudflare
-```
+**How to reach me** [hello@cjjutba.com](mailto:hello@cjjutba.com)
 
 </td>
-<td width="50%" align="center" style="border: none; padding: 20px;">
+<td width="50%" align="center">
 
-<div align="center" style="position: relative;">
-  <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="400" alt="Developer Animation" style="border-radius: 16px; box-shadow: 0 8px 32px rgba(99, 102, 241, 0.3);" />
-</div>
-
-<br/>
-
-### 📈 Development Philosophy
-<div align="center">
-
-```mermaid
-graph TD
-    A[💡 Innovation] --> B[🎯 User-Centric Design]
-    B --> C[⚡ Performance First]
-    C --> D[🔒 Security Focused]
-    D --> E[♻️ Scalable Architecture]
-    E --> A
-```
-
-</div>
-
-<div align="center" style="margin-top: 20px;">
-<img src="https://skillicons.dev/icons?i=react,typescript,nextjs,tailwind,nodejs,docker,aws,git&perline=4" alt="Tech Stack" />
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="400" alt="Developer Animation" />
 
 </td>
 </tr>
 </table>
 
 ---
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=footer&reversal=false&textBg=false" alt="Footer Wave" />
-</div>
 
 ## Technologies I Use
 
