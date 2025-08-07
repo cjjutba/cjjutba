@@ -42,79 +42,40 @@
 ---
 
 ## Things I code with
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px; padding: 20px; overflow-x: auto; white-space: nowrap;">
-  <div style="position: relative; transition: all 0.3s ease; flex-shrink: 0;" onmouseover="this.style.transform='scale(1.1) translateY(-5px)'; this.style.filter='drop-shadow(0 10px 20px rgba(227, 79, 38, 0.3))'" onmouseout="this.style.transform='scale(1) translateY(0)'; this.style.filter='drop-shadow(0 5px 10px rgba(0, 0, 0, 0.1))'">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60" height="60" alt="HTML5" style="filter: drop-shadow(0 5px 10px rgba(0, 0, 0, 0.1));" />
-  </div>
-  
-  <div style="position: relative; transition: all 0.3s ease; flex-shrink: 0;" onmouseover="this.style.transform='scale(1.1) translateY(-5px)'; this.style.filter='drop-shadow(0 10px 20px rgba(21, 114, 182, 0.3))'" onmouseout="this.style.transform='scale(1) translateY(0)'; this.style.filter='drop-shadow(0 5px 10px rgba(0, 0, 0, 0.1))'">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="60" height="60" alt="CSS3" style="filter: drop-shadow(0 5px 10px rgba(0, 0, 0, 0.1));" />
-  </div>
-  
-  <div style="position: relative; transition: all 0.3s ease; flex-shrink: 0;" onmouseover="this.style.transform='scale(1.1) translateY(-5px)'; this.style.filter='drop-shadow(0 10px 20px rgba(247, 223, 30, 0.3))'" onmouseout="this.style.transform='scale(1) translateY(0)'; this.style.filter='drop-shadow(0 5px 10px rgba(0, 0, 0, 0.1))'">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript" style="filter: drop-shadow(0 5px 10px rgba(0, 0, 0, 0.1));" />
-  </div>
-  
-  <div style="position: relative; transition: all 0.3s ease; flex-shrink: 0;" onmouseover="this.style.transform='scale(1.1) translateY(-5px)'; this.style.filter='drop-shadow(0 10px 20px rgba(49, 120, 198, 0.3))'" onmouseout="this.style.transform='scale(1) translateY(0)'; this.style.filter='drop-shadow(0 5px 10px rgba(0, 0, 0, 0.1))'">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="60" height="60" alt="TypeScript" style="filter: drop-shadow(0 5px 10px rgba(0, 0, 0, 0.1));" />
-  </div>
-  
-  <div style="position: relative; transition: all 0.3s ease; flex-shrink: 0;" onmouseover="this.style.transform='scale(1.1) translateY(-5px)'; this.style.filter='drop-shadow(0 10px 20px rgba(97, 218, 251, 0.3))'" onmouseout="this.style.transform='scale(1) translateY(0)'; this.style.filter='drop-shadow(0 5px 10px rgba(0, 0, 0, 0.1))'">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="60" height="60" alt="React" style="filter: drop-shadow(0 5px 10px rgba(0, 0, 0, 0.1));" />
-  </div>
-  
-  <div style="position: relative; transition: all 0.3s ease; flex-shrink: 0;" onmouseover="this.style.transform='scale(1.1) translateY(-5px)'; this.style.filter='drop-shadow(0 10px 20px rgba(0, 0, 0, 0.3))'" onmouseout="this.style.transform='scale(1) translateY(0)'; this.style.filter='drop-shadow(0 5px 10px rgba(0, 0, 0, 0.1))'">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="60" height="60" alt="Next.js" style="filter: drop-shadow(0 5px 10px rgba(0, 0, 0, 0.1));" />
-  </div>
-  
-  <div style="position: relative; transition: all 0.3s ease; flex-shrink: 0;" onmouseover="this.style.transform='scale(1.1) translateY(-5px)'; this.style.filter='drop-shadow(0 10px 20px rgba(6, 182, 212, 0.3))'" onmouseout="this.style.transform='scale(1) translateY(0)'; this.style.filter='drop-shadow(0 5px 10px rgba(0, 0, 0, 0.1))'">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="60" height="60" alt="Tailwind CSS" style="filter: drop-shadow(0 5px 10px rgba(0, 0, 0, 0.1));" />
-  </div>
-  
-  <div style="position: relative; transition: all 0.3s ease; flex-shrink: 0;" onmouseover="this.style.transform='scale(1.1) translateY(-5px)'; this.style.filter='drop-shadow(0 10px 20px rgba(204, 102, 153, 0.3))'" onmouseout="this.style.transform='scale(1) translateY(0)'; this.style.filter='drop-shadow(0 5px 10px rgba(0, 0, 0, 0.1))'">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="60" height="60" alt="Sass" style="filter: drop-shadow(0 5px 10px rgba(0, 0, 0, 0.1));" />
-  </div>
-  
-  <div style="position: relative; transition: all 0.3s ease; flex-shrink: 0;" onmouseover="this.style.transform='scale(1.1) translateY(-5px)'; this.style.filter='drop-shadow(0 10px 20px rgba(100, 181, 246, 0.3))'" onmouseout="this.style.transform='scale(1) translateY(0)'; this.style.filter='drop-shadow(0 5px 10px rgba(0, 0, 0, 0.1))'">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" width="60" height="60" alt="Material UI" style="filter: drop-shadow(0 5px 10px rgba(0, 0, 0, 0.1));" />
-  </div>
-  
-  <div style="position: relative; transition: all 0.3s ease; flex-shrink: 0;" onmouseover="this.style.transform='scale(1.1) translateY(-5px)'; this.style.filter='drop-shadow(0 10px 20px rgba(100, 70, 255, 0.3))'" onmouseout="this.style.transform='scale(1) translateY(0)'; this.style.filter='drop-shadow(0 5px 10px rgba(0, 0, 0, 0.1))'">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="60" height="60" alt="Vite" style="filter: drop-shadow(0 5px 10px rgba(0, 0, 0, 0.1));" />
-  </div>
-  
-  <div style="position: relative; transition: all 0.3s ease; flex-shrink: 0;" onmouseover="this.style.transform='scale(1.1) translateY(-5px)'; this.style.filter='drop-shadow(0 10px 20px rgba(255, 165, 0, 0.3))'" onmouseout="this.style.transform='scale(1) translateY(0)'; this.style.filter='drop-shadow(0 5px 10px rgba(0, 0, 0, 0.1))'">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg" width="60" height="60" alt="Framer Motion" style="filter: drop-shadow(0 5px 10px rgba(0, 0, 0, 0.1));" />
-  </div>
-  
-  <div style="position: relative; transition: all 0.3s ease; flex-shrink: 0;" onmouseover="this.style.transform='scale(1.1) translateY(-5px)'; this.style.filter='drop-shadow(0 10px 20px rgba(242, 78, 30, 0.3))'" onmouseout="this.style.transform='scale(1) translateY(0)'; this.style.filter='drop-shadow(0 5px 10px rgba(0, 0, 0, 0.1))'">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="60" height="60" alt="Figma" style="filter: drop-shadow(0 5px 10px rgba(0, 0, 0, 0.1));" />
-  </div>
-  
-  <div style="position: relative; transition: all 0.3s ease; flex-shrink: 0;" onmouseover="this.style.transform='scale(1.1) translateY(-5px)'; this.style.filter='drop-shadow(0 10px 20px rgba(240, 80, 50, 0.3))'" onmouseout="this.style.transform='scale(1) translateY(0)'; this.style.filter='drop-shadow(0 5px 10px rgba(0, 0, 0, 0.1))'">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60" height="60" alt="Git" style="filter: drop-shadow(0 5px 10px rgba(0, 0, 0, 0.1));" />
-  </div>
-  
-  <div style="position: relative; transition: all 0.3s ease; flex-shrink: 0;" onmouseover="this.style.transform='scale(1.1) translateY(-5px)'; this.style.filter='drop-shadow(0 10px 20px rgba(24, 23, 23, 0.3))'" onmouseout="this.style.transform='scale(1) translateY(0)'; this.style.filter='drop-shadow(0 5px 10px rgba(0, 0, 0, 0.1))'">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="60" height="60" alt="GitHub" style="filter: drop-shadow(0 5px 10px rgba(0, 0, 0, 0.1));" />
-  </div>
-  
-  <div style="position: relative; transition: all 0.3s ease; flex-shrink: 0;" onmouseover="this.style.transform='scale(1.1) translateY(-5px)'; this.style.filter='drop-shadow(0 10px 20px rgba(0, 122, 204, 0.3))'" onmouseout="this.style.transform='scale(1) translateY(0)'; this.style.filter='drop-shadow(0 5px 10px rgba(0, 0, 0, 0.1))'">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="60" height="60" alt="Visual Studio Code" style="filter: drop-shadow(0 5px 10px rgba(0, 0, 0, 0.1));" />
-  </div>
-  
-  <div style="position: relative; transition: all 0.3s ease; flex-shrink: 0;" onmouseover="this.style.transform='scale(1.1) translateY(-5px)'; this.style.filter='drop-shadow(0 10px 20px rgba(203, 56, 55, 0.3))'" onmouseout="this.style.transform='scale(1) translateY(0)'; this.style.filter='drop-shadow(0 5px 10px rgba(0, 0, 0, 0.1))'">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="60" height="60" alt="npm" style="filter: drop-shadow(0 5px 10px rgba(0, 0, 0, 0.1));" />
-  </div>
-  
-  <div style="position: relative; transition: all 0.3s ease; flex-shrink: 0;" onmouseover="this.style.transform='scale(1.1) translateY(-5px)'; this.style.filter='drop-shadow(0 10px 20px rgba(255, 94, 31, 0.3))'" onmouseout="this.style.transform='scale(1) translateY(0)'; this.style.filter='drop-shadow(0 5px 10px rgba(0, 0, 0, 0.1))'">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" width="60" height="60" alt="CloudFlare" style="filter: drop-shadow(0 5px 10px rgba(0, 0, 0, 0.1));" />
-  </div>
-  
-  <div style="position: relative; transition: all 0.3s ease; flex-shrink: 0;" onmouseover="this.style.transform='scale(1.1) translateY(-5px)'; this.style.filter='drop-shadow(0 10px 20px rgba(0, 0, 0, 0.3))'" onmouseout="this.style.transform='scale(1) translateY(0)'; this.style.filter='drop-shadow(0 5px 10px rgba(0, 0, 0, 0.1))'">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="60" height="60" alt="Notion" style="filter: drop-shadow(0 5px 10px rgba(0, 0, 0, 0.1));" />
-  </div>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60" height="60" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="60" height="60" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="60" height="60" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="60" height="60" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="60" height="60" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="60" height="60" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="60" height="60" alt="Sass" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" width="60" height="60" alt="Material UI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="60" height="60" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg" width="60" height="60" alt="Framer Motion" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="60" height="60" alt="Vite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" width="60" height="60" alt="Webpack" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" width="60" height="60" alt="ESLint" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prettier/prettier-original.svg" width="60" height="60" alt="Prettier" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" width="60" height="60" alt="Jest" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/storybook/storybook-original.svg" width="60" height="60" alt="Storybook" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="60" height="60" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60" height="60" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="60" height="60" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="60" height="60" alt="GitLab" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="60" height="60" alt="Visual Studio Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="60" height="60" alt="npm" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg" width="60" height="60" alt="Yarn" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-original.svg" width="60" height="60" alt="pnpm" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="60" height="60" alt="Vercel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/netlify/netlify-original.svg" width="60" height="60" alt="Netlify" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" width="60" height="60" alt="Cloudflare" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" width="60" height="60" alt="Chrome DevTools" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firefox/firefox-original.svg" width="60" height="60" alt="Firefox DevTools" />
 </div>
+
 ---
 
 ## 📊 Weekly Development Breakdown
