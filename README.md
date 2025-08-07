@@ -17,35 +17,30 @@
 
 ## A Frontend Developer & Problem Solver
 
-<div style="display: flex; align-items: flex-start; gap: 40px;">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<div style="flex: 1;">
+**Currently working on** cjjutba.com
 
-## Current Focus
+**Currently learning** Advanced React Patterns & Web3 Integration
 
-Building `cjjutba.com` - Next-generation portfolio platform
+**All projects available at** [cjjutba.com/projects](https://cjjutba.com/projects)
 
-Learning Advanced React Patterns & Web3 Integration
+**Technical articles at** [cjjutba.com/blog](https://cjjutba.com/blog)
 
-## Expertise & Highlights
+**Ask me about** React, TypeScript, Next.js, Performance Optimization
 
-**Portfolio:** All projects showcased at [cjjutba.com/projects](https://cjjutba.com/projects)
+**How to reach me** [hello@cjjutba.com](mailto:hello@cjjutba.com)
 
-**Knowledge Sharing:** Technical articles at [cjjutba.com/blog](https://cjjutba.com/blog)
+</td>
+<td width="50%" align="center">
 
-**Specializations:** React • TypeScript • Next.js • Performance Optimization
+<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="400" alt="Developer Animation" />
 
-**Let's Connect:** [hello@cjjutba.com](mailto:hello@cjjutba.com)
-
-</div>
-
-<div style="flex: 1;">
-
-<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="100%" alt="Developer Animation" />
-
-</div>
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
