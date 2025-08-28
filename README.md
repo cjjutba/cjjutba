@@ -1,4 +1,4 @@
-<a href="https://cjjutba.com" target="_blank">
+<a href="https://cjjutba.com" target="_blank"> 
   <img src="assets/cover-photo.png" alt="CJ Jutba - Frontend Developer" width="100%" />
 </a>
 <p align="center">
