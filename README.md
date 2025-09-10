@@ -64,16 +64,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## Weekly Development Breakdown
-[![CJ's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cjjutba&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=compact&langs_count=8&range=last_7_days)](https://wakatime.com/@cjjutba)
-<!-- <p align="center">
-  <a href="https://wakatime.com/@cjjutba">
-    <img src="https://wakatime.com/badge/user/cjjutba.svg?style=for-the-badge" alt="WakaTime Badge"/>
-  </a>
-</p> -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ## GitHub Stats
 <p align="center">
   <a href="https://cjjutba.com" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=cjjutba&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff" alt="GitHub Stats" width="48%" /></a>
