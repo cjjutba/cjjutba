@@ -31,7 +31,7 @@ I build production-ready web apps, mobile apps, and SaaS products end to end, fr
 - 👯 **Looking to collaborate on** Web app, mobile app, and SaaS projects
 - 🤔 **Ask me about** React, Next.js, Node.js, TypeScript, APIs, and databases
 - 🌍 **Portfolio:** [cjjutba.com](https://cjjutba.com)
-- 📂 **Projects:** [cjjutba.com/projects](https://cjjutba.com/projects)
+- 📂 **Projects:** [cjjutba.com/work](https://cjjutba.com/work)
 - ✍️ **Blog:** [cjjutba.com/blog](https://cjjutba.com/blog)
 - 📧 **Email:** [hello@cjjutba.com](mailto:hello@cjjutba.com)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
