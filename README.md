@@ -35,13 +35,3 @@ I build production-ready web apps, mobile apps, and SaaS products end to end, fr
 - ✍️ **Blog:** [cjjutba.com/blog](https://cjjutba.com/blog)
 - 📧 **Email:** [hello@cjjutba.com](mailto:hello@cjjutba.com)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## GitHub Stats
-<p align="center">
-  <a href="https://cjjutba.com" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=cjjutba&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff" alt="GitHub Stats" width="48%" /></a>
-  <a href="https://cjjutba.com" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjjutba&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="48%" /></a>
-  <br>
-  <a href="https://cjjutba.com" target="_blank"><img src="https://streak-stats.demolab.com/?user=cjjutba&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=79c0ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="Streak Stats" width="70%" /></a>
-</p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
