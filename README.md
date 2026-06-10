@@ -1,37 +1,50 @@
-<a href="https://cjjutba.com" target="_blank"> 
-  <img src="assets/cover-photo.png" alt="CJ Jutba - Full-Stack Developer" width="100%" />
-</a>
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=cjjutba"><img src="https://komarev.com/ghpvc/?username=cjjutba&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" alt="Profile Views"/></a>
-  <a href="https://github.com/cjjutba"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://linkedin.com/in/cjjutba"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/cjjutba"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-</p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## Full-Stack Developer & Freelancer
-
-I build production-ready web apps, mobile apps, and SaaS products end to end, from clean, responsive frontends to secure, scalable backends. I care about maintainable code, real performance, and shipping things that work.
-
 <a href="https://cjjutba.com" target="_blank">
-  <img src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif" width="100%" alt="Developer Animation" />
+  <img src="assets/cover-photo.png" alt="CJ Jutba - AI-native product engineer" width="100%" />
 </a>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## What I Do
-- 💻 **Web apps** built with React, Next.js, and Node.js
-- 📱 **Mobile apps** for cross-platform delivery
-- 🚀 **SaaS products** with auth, payments, dashboards, and APIs
-- 🗄️ **Backend & databases** using Node.js, PostgreSQL, and MongoDB
-- ☁️ **Deployment** to Vercel, Netlify, and cloud servers
+<p align="center">
+  <a href="https://cjjutba.com"><img src="https://img.shields.io/badge/Portfolio-cjjutba.com-0c0c0c?style=flat-square&labelColor=0c0c0c" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/cjjutba"><img src="https://img.shields.io/badge/LinkedIn-in%2Fcjjutba-0c0c0c?style=flat-square&labelColor=0c0c0c" alt="LinkedIn" /></a>
+  <a href="https://x.com/cjjutba"><img src="https://img.shields.io/badge/X-%40cjjutba-0c0c0c?style=flat-square&labelColor=0c0c0c" alt="X" /></a>
+  <a href="mailto:hello@cjjutba.com"><img src="https://img.shields.io/badge/Email-hello%40cjjutba.com-0c0c0c?style=flat-square&labelColor=0c0c0c" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=cjjutba&style=flat-square&color=0c0c0c&label=Profile+views" alt="Profile views" />
+</p>
 
-## What I'm Up To
-- 🔭 **Currently working on** [cjjutba.com](https://cjjutba.com)
-- 🌱 **Currently learning** Advanced full-stack architecture & scalable system design
-- 👯 **Looking to collaborate on** Web app, mobile app, and SaaS projects
-- 🤔 **Ask me about** React, Next.js, Node.js, TypeScript, APIs, and databases
-- 🌍 **Portfolio:** [cjjutba.com](https://cjjutba.com)
-- 📂 **Projects:** [cjjutba.com/work](https://cjjutba.com/work)
-- ✍️ **Blog:** [cjjutba.com/blog](https://cjjutba.com/blog)
-- 📧 **Email:** [hello@cjjutba.com](mailto:hello@cjjutba.com)
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+## AI-native product engineer
+
+I take a founder's idea and turn it into a production-grade web app, SaaS, or MVP - fast enough to test it, solid enough to scale it.
+
+Most builds take months. Mine ship in **weeks**. Being AI-native means I move at a pace solo developers usually can't - but fast never means fragile. The code is clean, tested, and built to hold up in the real world.
+
+My last build was a **regulated fintech platform, shipped solo** - auth, payments, dashboards, and the rigor a regulated build demands, end to end.
+
+## What I build
+
+- **Web apps & SaaS** - end to end with React, Next.js, and Node.js
+- **MVPs for founders** - idea to shipped product in weeks, not months
+- **The full lifecycle** - auth, payments, dashboards, integrations, deployment
+- **Mobile** - native iOS and cross-platform when the product calls for it
+- **Code you own outright** - no lock-in, no mess to inherit
+
+## How I work
+
+AI-native isn't a buzzword here - it's the workflow. I plan in detail, build with AI agents working in parallel, and review every line that ships. That's how one engineer delivers what used to take a team. Evidence before claims - the proof is in the case studies, not the pitch.
+
+## Tech
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,tailwind,postgres,mongodb,vercel" alt="Tech stack" />
+</p>
+
+## Find me
+
+- **Portfolio** - https://cjjutba.com
+- **Selected work** - https://cjjutba.com/work
+- **Writing** - https://cjjutba.com/blog
+- **Email** - hello@cjjutba.com
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cjjutba&show_icons=true&hide_border=true&hide_title=true&count_private=true&title_color=0c0c0c&icon_color=0c0c0c&text_color=0c0c0c&bg_color=f1f0ea" alt="GitHub stats" />
+</p>
