@@ -1,5 +1,5 @@
 <a href="https://cjjutba.com" target="_blank">
-  <img src="assets/github.png" alt="CJ Jutba - AI-native product engineer" width="100%" />
+  <img src="assets/github-cjjutba-dev.png" alt="CJ Jutba - AI-native product engineer" width="100%" />
 </a>
 
 <p align="center">
