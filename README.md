@@ -1,34 +1,36 @@
-<a href="https://cjjutba.com" target="_blank">
-  <img src="assets/github-cjjutba-dev.png" alt="CJ Jutba - AI-native product engineer" width="100%" />
+<a href="https://cjjutba.dev" target="_blank">
+  <img src="assets/github-cjjutba-dev.png" alt="CJ Jutba, AI-native product engineer" width="100%" />
 </a>
 
 <p align="center">
-  <a href="https://cjjutba.com"><img src="https://img.shields.io/badge/Portfolio-cjjutba.com-0c0c0c?style=flat-square&labelColor=0c0c0c" alt="Portfolio" /></a>
+  <a href="https://cjjutba.dev"><img src="https://img.shields.io/badge/Portfolio-cjjutba.dev-0c0c0c?style=flat-square&labelColor=0c0c0c" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/cjjutba"><img src="https://img.shields.io/badge/LinkedIn-in%2Fcjjutba-0c0c0c?style=flat-square&labelColor=0c0c0c" alt="LinkedIn" /></a>
   <a href="https://x.com/cjjutba"><img src="https://img.shields.io/badge/X-%40cjjutba-0c0c0c?style=flat-square&labelColor=0c0c0c" alt="X" /></a>
-  <a href="mailto:hello@cjjutba.com"><img src="https://img.shields.io/badge/Email-hello%40cjjutba.com-0c0c0c?style=flat-square&labelColor=0c0c0c" alt="Email" /></a>
+  <a href="mailto:hello@cjjutba.dev"><img src="https://img.shields.io/badge/Email-hello%40cjjutba.dev-0c0c0c?style=flat-square&labelColor=0c0c0c" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=cjjutba&style=flat-square&color=0c0c0c&label=Profile+views" alt="Profile views" />
 </p>
 
 ## AI-native product engineer
 
-I take a founder's idea and turn it into a production-grade web app, SaaS, or MVP - fast enough to test it, solid enough to scale it.
+I take a founder's idea and turn it into a production-grade web app, SaaS or MVP. Fast enough to test, solid enough to scale.
 
-Most builds take months. Mine ship in **weeks**. Being AI-native means I move at a pace solo developers usually can't - but fast never means fragile. The code is clean, tested, and built to hold up in the real world.
+Most builds take months. Mine ship in **weeks**. Being AI-native means I move at a pace solo developers usually can't, and fast never means fragile. The code is clean, tested, and built to hold up once real people depend on it.
 
-My last build was a **regulated fintech platform, shipped solo** - auth, payments, dashboards, and the rigor a regulated build demands, end to end.
+My last build was a **regulated fintech platform, shipped solo**. Auth, payments, dashboards, and the compliance rigor a regulated build demands, end to end.
 
 ## What I build
 
-- **Web apps & SaaS** - end to end with React, Next.js, and Node.js
-- **MVPs for founders** - idea to shipped product in weeks, not months
-- **The full lifecycle** - auth, payments, dashboards, integrations, deployment
-- **Mobile** - native iOS and cross-platform when the product calls for it
-- **Code you own outright** - no lock-in, no mess to inherit
+- **Web apps and SaaS.** End to end with React, Next.js and Node.js.
+- **MVPs for founders.** Idea to shipped product in weeks rather than months.
+- **The full lifecycle.** Auth, payments, dashboards, integrations, deployment.
+- **Mobile.** Native iOS and cross-platform when the product calls for it.
+- **Code you own outright.** No lock-in and no mess to inherit.
 
 ## How I work
 
-AI-native isn't a buzzword here - it's the workflow. I plan in detail, build with AI agents working in parallel, and review every line that ships. That's how one engineer delivers what used to take a team. Evidence before claims - the proof is in the case studies, not the pitch.
+AI-native is the workflow, not a buzzword. I plan in detail, build with agents working in parallel, and review every line that ships. The review is the part that keeps the pace from costing anything. That is how one engineer delivers what used to take a team.
+
+Evidence before claims. The proof is in the case studies rather than the pitch.
 
 ## Tech
 
@@ -38,13 +40,13 @@ AI-native isn't a buzzword here - it's the workflow. I plan in detail, build wit
 
 ## Find me
 
-- **Portfolio** - https://cjjutba.com
-- **Selected work** - https://cjjutba.com/work
-- **Writing** - https://cjjutba.com/blog
-- **Email** - hello@cjjutba.com
+- [Portfolio](https://cjjutba.dev)
+- [Selected work](https://cjjutba.dev/work)
+- [Writing](https://cjjutba.dev/blog)
+- [hello@cjjutba.dev](mailto:hello@cjjutba.dev)
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cjjutba&show_icons=true&hide_border=true&hide_title=true&count_private=true&title_color=0c0c0c&icon_color=0c0c0c&text_color=0c0c0c&bg_color=f1f0ea" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cjjutba&show_icons=true&hide_border=true&hide_title=true&count_private=true&title_color=0c0c0c&icon_color=0c0c0c&text_color=6f7280&bg_color=00000000" alt="GitHub stats" />
 </p>
