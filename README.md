@@ -1,4 +1,4 @@
-<a href="https://cjjutba.dev" target="_blank">
+<a href="https://cjjutba.dev" target="_blank"> 
   <img src="assets/github-cjjutba-dev.png" alt="CJ Jutba, AI-native product engineer" width="100%" />
 </a>
 
