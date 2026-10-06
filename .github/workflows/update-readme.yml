@@ -1,0 +1,44 @@
+name: Update README
+
+on:
+  schedule:
+    # Daily at 00:17 UTC, 08:17 in Manila.
+    - cron: "17 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: update-readme
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - run: node scripts/update-readme.mjs
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+
+      # Commits only when a post or repo changed, so quiet days stay quiet.
+      - name: Commit if README changed
+        run: |
+          if git diff --quiet README.md; then
+            echo "README unchanged"
+            exit 0
+          fi
+          git config user.name "CJ Jutba"
+          git config user.email "216149974+cjjutba@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update README with latest posts and repos"
+          git push
+
+      # GitHub disables scheduled workflows after 60 days without repo activity.
+      # Re-enabling through the API resets that clock without a dummy commit.
+      - name: Keep the schedule alive
+        run: gh api -X PUT "repos/${{ github.repository }}/actions/workflows/update-readme.yml/enable"
+        env:
+          GH_TOKEN: ${{ github.token }}

@@ -38,6 +38,16 @@ Evidence before claims. The proof is in the case studies rather than the pitch.
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,tailwind,postgres,mongodb,vercel" alt="Tech stack" />
 </p>
 
+## Recently active
+
+<!-- REPOS:START -->
+<!-- REPOS:END -->
+
+## Latest writing
+
+<!-- POSTS:START -->
+<!-- POSTS:END -->
+
 ## Find me
 
 - [Portfolio](https://cjjutba.dev)
