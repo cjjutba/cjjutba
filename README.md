@@ -41,7 +41,7 @@ Evidence before claims. The proof is in the case studies rather than the pitch.
 ## Recently active
 
 <!-- REPOS:START -->
-- **[kernel](https://github.com/cjjutba/kernel)**. A Mac app where Claude Code agents work as a team in a virtual office. Last push Oct 8, 2026.
+- **[kernel](https://github.com/cjjutba/kernel)**. A Mac app where Claude Code agents work as a team in a virtual office. Last push Oct 9, 2026.
 - **[starter-kit-web](https://github.com/cjjutba/starter-kit-web)**. The repo every new product starts from. Last push Oct 3, 2026.
 - **[kalinga](https://github.com/cjjutba/kalinga)**. Booking, records and recall reminders for veterinary clinics in the Philippines. Last push Sep 7, 2026.
 - **[upnext](https://github.com/cjjutba/upnext)**. Courtside pickleball open play manager. Last push Sep 4, 2026.
