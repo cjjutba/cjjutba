@@ -41,11 +41,11 @@ Evidence before claims. The proof is in the case studies rather than the pitch.
 ## Recently active
 
 <!-- REPOS:START -->
-- **[kernel](https://github.com/cjjutba/kernel)**. A Mac app where Claude Code and Codex agents work as a team. Last push Oct 15, 2026.
+- **[kernel](https://github.com/cjjutba/kernel)**. A Mac app where Claude Code and Codex agents work as a team. Last push Oct 16, 2026.
+- **[homebrew-tap](https://github.com/cjjutba/homebrew-tap)**. Homebrew tap for Kernel. Last push Oct 15, 2026.
 - **[starter-kit-web](https://github.com/cjjutba/starter-kit-web)**. The repo every new product starts from. Last push Oct 10, 2026.
 - **[kalinga](https://github.com/cjjutba/kalinga)**. Booking, records and recall reminders for veterinary clinics in the Philippines. Last push Sep 7, 2026.
 - **[upnext](https://github.com/cjjutba/upnext)**. Courtside pickleball open play manager. Last push Sep 4, 2026.
-- **[soloist](https://github.com/cjjutba/soloist)**. Dev-native multi-tenant client portal. Last push Jun 13, 2026.
 <!-- REPOS:END -->
 
 ## Latest writing
@@ -53,7 +53,6 @@ Evidence before claims. The proof is in the case studies rather than the pitch.
 <!-- POSTS:START -->
 - [From idea to shipped, my AI-native engineering workflow](https://cjjutba.dev/blog/ai-native-workflow), May 28, 2026
 - [Engineering a compliance-grade SaaS, with multi-tenancy, RBAC and audit trails](https://cjjutba.dev/blog/compliance-grade-saas), May 22, 2026
-- [Designing AI you can defend, explainability and fairness in AuraHire](https://cjjutba.dev/blog/explainable-fair-ai), May 15, 2026
 - [Build log, shipping this site with Next.js 16, Tailwind v4 and a monochrome design system](https://cjjutba.dev/blog/building-this-site), May 10, 2026
 <!-- POSTS:END -->
 
