@@ -61,7 +61,7 @@ Evidence before claims. The proof is in the case studies rather than the pitch.
 - [Portfolio](https://cjjutba.dev)
 - [Selected work](https://cjjutba.dev/work)
 - [Writing](https://cjjutba.dev/blog)
-- [hello@cjjutba.dev](mailto:hello@cjjutba.dev)
+- [dev.cjjutba@gmail.com](mailto:dev.cjjutba@gmail.com)
 
 ---
 
