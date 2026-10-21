@@ -6,36 +6,33 @@
   <a href="https://cjjutba.dev"><img src="https://img.shields.io/badge/Portfolio-cjjutba.dev-0c0c0c?style=flat-square&labelColor=0c0c0c" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/cjjutba"><img src="https://img.shields.io/badge/LinkedIn-in%2Fcjjutba-0c0c0c?style=flat-square&labelColor=0c0c0c" alt="LinkedIn" /></a>
   <a href="https://x.com/cjjutba"><img src="https://img.shields.io/badge/X-%40cjjutba-0c0c0c?style=flat-square&labelColor=0c0c0c" alt="X" /></a>
-  <a href="mailto:hello@cjjutba.dev"><img src="https://img.shields.io/badge/Email-hello%40cjjutba.dev-0c0c0c?style=flat-square&labelColor=0c0c0c" alt="Email" /></a>
+  <a href="mailto:dev.cjjutba@gmail.com"><img src="https://img.shields.io/badge/Email-dev.cjjutba%40gmail.com-0c0c0c?style=flat-square&labelColor=0c0c0c" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=cjjutba&style=flat-square&color=0c0c0c&label=Profile+views" alt="Profile views" />
 </p>
 
 ## AI-native product engineer
 
-I take a founder's idea and turn it into a production-grade web app, SaaS or MVP. Fast enough to test, solid enough to scale.
+I build web apps, SaaS and MVPs for founders and startups, shipped in weeks, not months.
 
-Most builds take months. Mine ship in **weeks**. Being AI-native means I move at a pace solo developers usually can't, and fast never means fragile. The code is clean, tested, and built to hold up once real people depend on it.
+Being AI-native means I plan the work in detail, agents build separate parts of it in parallel, and I review every line that ships. The review is why fast never means fragile.
 
-My last build was a **regulated fintech platform, shipped solo**. Auth, payments, dashboards, and the compliance rigor a regulated build demands, end to end.
+## Selected work
 
-## What I build
-
-- **Web apps and SaaS.** End to end with React, Next.js and Node.js.
-- **MVPs for founders.** Idea to shipped product in weeks rather than months.
-- **The full lifecycle.** Auth, payments, dashboards, integrations, deployment.
-- **Mobile.** Native iOS and cross-platform when the product calls for it.
-- **Code you own outright.** No lock-in and no mess to inherit.
+- **[Fiscplus](https://cjjutba.dev/work/fiscplus).** A multi-tenant SaaS for a Belgian accounting firm. Three role-scoped portals, real-time sync and a complete anti-money-laundering module, built and run solo. Private client.
+- **[Kernel](https://github.com/cjjutba/kernel).** A Mac app where Claude Code and Codex agents work on one repo as a small team, each in its own git worktree. Nine public releases in its first eight days.
+- **[Kalinga](https://github.com/cjjutba/kalinga).** Booking, records and recall reminders for small vet clinics. Built in four days.
+- **[Quarter](https://cjjutba.dev/work/quarter).** Rooms, meter readings and rent for a boarding house, run from a phone at the gate.
 
 ## How I work
 
-AI-native is the workflow, not a buzzword. I plan in detail, build with agents working in parallel, and review every line that ships. The review is the part that keeps the pace from costing anything. That is how one engineer delivers what used to take a team.
+I own the whole project. Scoping, architecture, build, deployment and a handoff the next engineer can pick up. The code is yours to keep.
 
-Evidence before claims. The proof is in the case studies rather than the pitch.
+Evidence before claims. The proof is in the [case studies](https://cjjutba.dev/work), not the pitch.
 
 ## Tech
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,tailwind,postgres,mongodb,vercel" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nestjs,nodejs,postgres,prisma,tailwind,vercel" alt="Tech stack" />
 </p>
 
 ## Recently active
