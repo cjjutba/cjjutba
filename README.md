@@ -18,7 +18,7 @@ Being AI-native means I plan the work in detail, agents build separate parts of 
 
 ## Selected work
 
-- **[Fiscplus](https://cjjutba.dev/work/fiscplus).** A multi-tenant SaaS for a Belgian accounting firm. Three role-scoped portals, real-time sync and a complete anti-money-laundering module, built and run solo. Private client.
+- **[Fiscplus](https://cjjutba.dev/work/fiscplus).** A multi-tenant SaaS for a Belgian accounting firm. Three role-scoped portals, real-time sync and a complete anti-money-laundering module, built solo and still in active development. Private client.
 - **[Kernel](https://github.com/cjjutba/kernel).** A Mac app where Claude Code and Codex agents work on one repo as a small team, each in its own git worktree. Nine public releases in its first eight days.
 - **[Kalinga](https://github.com/cjjutba/kalinga).** Booking, records and recall reminders for small vet clinics. Built in four days.
 - **[Quarter](https://cjjutba.dev/work/quarter).** Rooms, meter readings and rent for a boarding house, run from a phone at the gate.
